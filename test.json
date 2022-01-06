@@ -1,10 +1,11 @@
 {
   "modpacks": [
     {
-      "title": "Vloedje Modpack 1.18",
+      "name": "Vloedje Modpack 1.18",
       "id": "vloedje_1_18",
       "minecraft_version": "1.18",
-      "loader_version": "0.12.12"
+      "loader_version": "0.12.12",
+      "mods": []
     }
   ]
 }
