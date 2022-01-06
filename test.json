@@ -2,7 +2,16 @@
   "modpacks": [
     {
       "name": "Vloedje Modpack 1.18",
+      "description": "De echte Vloedje modpack",
       "id": "vloedje_1_18",
+      "minecraft_version": "1.18",
+      "loader_version": "0.12.12",
+      "mods": []
+    },
+    {
+      "name": "Vloedje Modpack 1.18 Lite",
+      "description": "De Lite versie van de echte Vloedje modpack",
+      "id": "vloedje_1_18_lite",
       "minecraft_version": "1.18",
       "loader_version": "0.12.12",
       "mods": []
