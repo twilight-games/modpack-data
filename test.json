@@ -6,7 +6,16 @@
       "id": "twilight_1_18",
       "minecraft_version": "1.18",
       "loader_version": "0.12.12",
-      "mods": []
+      "mods": [
+        {
+          "id": "plasmovoice",
+          "name": "Plasmovoice",
+          "filename": "plasmovoice.jar",
+          "state": "present",
+          "url": "https://github.com/plasmoapp/plasmo-voice/releases/download/1.2.9/plasmovoice-fabric-1.18.1-1.2.9.jar",
+          "hash": "2b5c4b8cf22bc37b732a47e559e1af2fed7b76e80e3eeb4a05f9bd8ad73e0020"
+        }
+      ]
     },
     {
       "name": "Twilight Modpack 1.18 Lite",
