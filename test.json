@@ -14,6 +14,14 @@
           "state": "present",
           "url": "https://github.com/plasmoapp/plasmo-voice/releases/download/1.2.9/plasmovoice-fabric-1.18.1-1.2.9.jar",
           "hash": "2b5c4b8cf22bc37b732a47e559e1af2fed7b76e80e3eeb4a05f9bd8ad73e0020"
+        },
+        {
+          "id": "lazydfu",
+          "name": "LazyDFU",
+          "filename": "lazydfu.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
+          "hash": "e78eb1492e20bcd8c998d4142dd437c2517393c5d02f582204ad8a38341e75e8"
         }
       ]
     },
