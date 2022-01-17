@@ -26,10 +26,10 @@
       ]
     },
     {
-      "name": "Twilight Modpack 1.18 Lite",
+      "name": "Twilight Modpack 1.18.1 Lite",
       "description": "The Lite version of the real Twilight modpack",
-      "id": "twilight_1_18_lite",
-      "minecraft_version": "1.18",
+      "id": "twilight_1_18_1_lite",
+      "minecraft_version": "1.18.1",
       "loader_version": "0.12.12",
       "mods": []
     }
