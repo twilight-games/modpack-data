@@ -23,7 +23,17 @@
           "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
           "hash": "e78eb1492e20bcd8c998d4142dd437c2517393c5d02f582204ad8a38341e75e8"
         }
-      ]
+      ],
+      "configs": [
+        {
+          "id": "plasmovoice",
+          "name": "PlasmoVoice",
+          "filename": "PlasmoVoice/config.json",
+          "state": "present",
+          "url": "https://modpack.vloedje.nl/configs/plasmovoice.json",
+          "hash": "71f4f04cc6855bd135a2a2feb96cd7ac860a7ea4dd2f79aa949a0bdd16ce78da"
+        }
+      ],
     },
     {
       "name": "Twilight Modpack 1.18.1 Lite",
