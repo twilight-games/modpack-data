@@ -12,8 +12,56 @@
           "name": "Plasmovoice",
           "filename": "plasmovoice.jar",
           "state": "present",
-          "url": "https://github.com/plasmoapp/plasmo-voice/releases/download/1.2.9/plasmovoice-fabric-1.18.1-1.2.9.jar",
-          "hash": "2b5c4b8cf22bc37b732a47e559e1af2fed7b76e80e3eeb4a05f9bd8ad73e0020"
+          "url": "https://github.com/plasmoapp/plasmo-voice/releases/download/1.2.10-alpha/plasmovoice-fabric-1.18.1-1.2.10-alpha-1.jar",
+          "hash": "c6ffe4339532a8b7d142cba9a865fdc5cd0f92d250d98c41978a5d41257690ea"
+        },
+        {
+          "id": "sodium",
+          "name": "Sodium",
+          "filename": "sodium.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
+          "hash": "94c4f9aa5a40bd97a65bee45774b2fd5317f6cb8a296278d6585eee11cf54923"
+        },
+        {
+          "id": "lithium",
+          "name": "Lithium",
+          "filename": "lithium.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar",
+          "hash": "c2b319ad5752f1516e230770c52d3083dc14807e8f5ac3dd491356d0a2bc818c"
+        },
+        {
+          "id": "sodium-extra",
+          "name": "Sodium-Extra",
+          "filename": "sodium-extra.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.3.9/sodium-extra-mc1.16.5-0.3.9.jar",
+          "hash": "5ba7501c4c81c3a1d25bcdae46b57115442bc244de4c2ac65223b5d42433d1ee"
+        },
+        {
+          "id": "smooth-boot",
+          "name": "Smooth-Boot",
+          "filename": "smooth-boot.jar",
+          "state": "present",
+          "url": "https://media.forgecdn.net/files/3549/723/smoothboot-fabric-1.18-1.7.0.jar",
+          "hash": "d3838094822ced19ad077ab999e0eb618ece1bb5f62fa3177839538dd0f0d530"
+        },
+        {
+          "id": "entity-culling",
+          "name": "Entity-Culling",
+          "filename": "entity-culling.jar",
+          "state": "present",
+          "url": "https://media.forgecdn.net/files/3523/465/EntityCulling-Fabric-1.3.3.jar",
+          "hash": "dd2bf875a54062de3ea93c60581c3e9ad1db01f20ccc4b03d887d5e354edfb2b"
+        },
+        {
+          "id": "fabric-api",
+          "name": "Fabric-API",
+          "filename": "fabric-API.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.1+1.18/fabric-api-0.46.1+1.18.jar",
+          "hash": "90428ed243dd9a5d9fa3ab8db680eb31dc30ab78ecfa98fc0ac5fbac69e2cd34"
         },
         {
           "id": "lazydfu",
