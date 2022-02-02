@@ -36,8 +36,8 @@
           "name": "Sodium-Extra",
           "filename": "sodium-extra.jar",
           "state": "present",
-          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.3.9/sodium-extra-mc1.16.5-0.3.9.jar",
-          "hash": "5ba7501c4c81c3a1d25bcdae46b57115442bc244de4c2ac65223b5d42433d1ee"
+          "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.3.9/sodium-extra-mc1.18.1-0.3.9.jar",
+          "hash": "ad7ecf52f20dbb3704f4023a41949561afa3c96e38aac08b8dfcc3bad0ec4c40"
         },
         {
           "id": "smooth-boot",
@@ -62,6 +62,110 @@
           "state": "present",
           "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.1+1.18/fabric-api-0.46.1+1.18.jar",
           "hash": "90428ed243dd9a5d9fa3ab8db680eb31dc30ab78ecfa98fc0ac5fbac69e2cd34"
+        },
+        {
+          "id": "iris",
+          "name": "Iris",
+          "filename": "iris.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x/v1.2.0/iris-mc1.18.1-1.2.0-pre.jar",
+          "hash": "3b9ae63fdd7be15cae051ac7af44ac7736c129a3928548238f08aedfc0e6beaf"
+        },
+        {
+          "id": "indium",
+          "name": "Indium",
+          "filename": "indium.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha2+mc1.18.1/indium-1.0.2-alpha2+mc1.18.1.jar",
+          "hash": "0d46ea737cebaf159caf31086f9997b25d38635016337864b89581d409df3cbd"
+        },
+        {
+          "id": "krypton",
+          "name": "Krypton",
+          "filename": "krypton.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar",
+          "hash": "d1c2b12483115279abb1d460d22cb7eefc7f279a3776fa6d735957c2f9da2be6"
+        },
+        {
+          "id": "starlight",
+          "name": "Starlight",
+          "filename": "starlight.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar",
+          "hash": "41d167be9479556351bf187587cfc2e5015db38053d153bab1884158488d692f"
+        },
+        {
+          "id": "ferritecore",
+          "name": "FerriteCore",
+          "filename": "ferritecore.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar",
+          "hash": "60ad1dd3eb595b26dc8571fb861086f83575dbaf0afaba4f0134014cae8304ca"
+        },
+        {
+          "id": "reeses-sodium-options",
+          "name": "Reeses-Sodium-Options",
+          "filename": "reeses-sodium-options.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.0/reeses_sodium_options-mc1.17.1-1.4.0.jar",
+          "hash": "b74017724d2abc152f8ab1665d0ce93e942a364744890ad3d2f26ea36b4df760"
+        },
+        {
+          "id": "enhanced-block-entities",
+          "name": "Enhanced-Block-Entities",
+          "filename": "enhanced-block-entities.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.18/enhancedblockentities-0.5+1.18.jar",
+          "hash": "ed61c14067a3979740e600c84db67d60acdbeec2069e6e12fb3df130138d1a1c"
+        },
+        {
+          "id": "cull-leaves",
+          "name": "Cull-Leaves",
+          "filename": "cull-leaves.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar",
+          "hash": "b4d8b8dd525afed2e929cb121212236229baa58a294e50510b2df376d342eb14"
+        },
+        {
+          "id": "detailed-debug-pie",
+          "name": "Detailed-Debug-Pie",
+          "filename": "detailed-debug-pie.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/NKzlWp4C/versions/1.2.1/detailed-debug-pie-1.2.1.jar",
+          "hash": "46c8809e3df15f269977e00b0e84a2c358758d4a9bc57aaa789b2c21022c9968"
+        },
+        {
+          "id": "better-beds",
+          "name": "Better-Beds",
+          "filename": "better-beds.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar",
+          "hash": "78f91ce284c3d121850fbaa7cca4a01eb5bd7cfa033299e2f1eb91f1aa303c0f"
+        },
+        {
+          "id": "lambdynamiclights",
+          "name": "LambDynamicLights",
+          "filename": "lambdynamiclights.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar",
+          "hash": "d17bd6e230110e399d43f86cc9c820ae8b0ff1af7fa9f9cd686aec59495c195d"
+        },
+        {
+          "id": "lambdabettergrass",
+          "name": "LambdaBetterGrass",
+          "filename": "lambdabettergrass.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.2+1.17/lambdabettergrass-1.2.2+1.17.jar",
+          "hash": "d05f926fe158491a9f7a28bfd74d494cad749884740d86967698b87f0d329bae"
+        },
+        {
+          "id": "dynamic-fps",
+          "name": "Dynamic-FPS",
+          "filename": "dynamic-fps.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar",
+          "hash": "fdbe746970395d903d74ff2763c9bd2ad0dbf8959013d4c959dab0f46033c4e4"
         },
         {
           "id": "lazydfu",
