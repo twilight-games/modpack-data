@@ -280,6 +280,14 @@
           "hash": "c8f4330343fa0200b626d016814da202814ab323d65295d6694e115379cfbbfb"
         },
         {
+          "id": "purpurclient",
+          "name": "PurpurClient",
+          "filename": "purpurclient.jar",
+          "state": "present",
+          "url": "https://api.purpurmc.org/v2/purpurclient/1.18.1/latest/download",
+          "hash": "9587d6da3f22bf994b323e777224c657a1b1a59ca689afe86d7e0dcc4ba43bc4"
+        },
+        {
           "id": "lazydfu",
           "name": "LazyDFU",
           "filename": "lazydfu.jar",
