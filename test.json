@@ -288,6 +288,62 @@
           "hash": "9587d6da3f22bf994b323e777224c657a1b1a59ca689afe86d7e0dcc4ba43bc4"
         },
         {
+          "id": "screenshot-to-clipboard",
+          "name": "Screenshot-to-Clipboard",
+          "filename": "screenshot-to-clipboard.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.7+fabric/screenshot-to-clipboard-1.0.7-fabric.jar",
+          "hash": "5dd43eaefeb166b602fbb55f07394b7c060ed35423f2947af6fcd7e0ade6f1f3"
+        },
+        {
+          "id": "fabrishot",
+          "name": "Fabrishot",
+          "filename": "fabrishot.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.6.0/fabrishot-1.6.0.jar",
+          "hash": "bc668d2b3b633b8849d569b3b83c5381e5d2e2cbc0fdf3445a704699e7a7080d"
+        },
+        {
+          "id": "no-fade",
+          "name": "No-Fade",
+          "filename": "no-fade.jar",
+          "state": "present",
+          "url": "https://media.forgecdn.net/files/3550/935/nofade-1.18-2.0.1.jar",
+          "hash": "cb6345b67f2f14708f0476d6797267466862d1a0e5b1a5dd530f43c0d45951ca"
+        },
+        {
+          "id": "continuity",
+          "name": "Continuity",
+          "filename": "continuity.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.3+1.18/continuity-1.0.3+1.18.jar",
+          "hash": "d4e436a3d23acf225e4fe1c4017f677761c70be735c0c2db7c7b00e276b1c9d4"
+        },
+        {
+          "id": "lazy-language-loader",
+          "name": "lazy-language-loader",
+          "filename": "lazy-language-loader.jar",
+          "state": "present",
+          "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/0.2.6/lazy-language-loader-0.2.6.jar",
+          "hash": "070ef26723b1bf9bfe907eb6658cfd851359ab824d1994051fb736ccf145213d"
+        },
+        {
+          "id": "cloth-config-api",
+          "name": "Cloth-Config-API",
+          "filename": "cloth-config-api.jar",
+          "state": "present",
+          "url": "https://media.forgecdn.net/files/3559/638/cloth-config-6.1.48-fabric.jar",
+          "hash": "9947b7cdb8fa6314a63807f7d6a1e295a31c026bc454263e5b2979d47c4c82c1"
+        },
+        {
+          "id": "shulkerboxtooltip",
+          "name": "ShulkerBoxTooltip",
+          "filename": "shulkerboxtooltip.jar",
+          "state": "present",
+          "url": "https://media.forgecdn.net/files/3549/367/shulkerboxtooltip-3.0.5%2B1.18.jar",
+          "hash": "e4ab0934db5ba99e1d68c95e24be8ceeec9a9f8f824330fd0f267063e80a5cf7"
+        },
+        {
           "id": "lazydfu",
           "name": "LazyDFU",
           "filename": "lazydfu.jar",
