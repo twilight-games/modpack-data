@@ -12,7 +12,7 @@
           "name": "Plasmovoice",
           "filename": "plasmovoice.jar",
           "state": "present",
-          "url": "https://github.com/plasmoapp/plasmo-voice/releases/download/1.2.10-alpha/plasmovoice-fabric-1.18.1-1.2.10-alpha-1.jar",
+          "url": "https://github.com/plasmoapp/plasmo-voice/releases/download/1.2.10/plasmovoice-fabric-1.18.1-1.2.10.jar",
           "hash": "c6ffe4339532a8b7d142cba9a865fdc5cd0f92d250d98c41978a5d41257690ea"
         },
         {
