@@ -392,38 +392,6 @@
           "hash": "c5d64c07da7af1b30d694491654d4c007ca478cd73c00d2b96161a3433fa3a70"
         },
         {
-          "id": "screenshot-to-clipboard",
-          "name": "screenshot-to-clipboard",
-          "filename": "screenshot-to-clipboard.jar",
-          "state": "present",
-          "url": "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.9+fabric/screenshot-to-clipboard-1.0.9-fabric.jar.jar",
-          "hash": "31dfd3703a75c8188f2e22b93a6aef62d18a753bbb0ef2f8ed12ffc5704a3d08"
-        },
-        {
-          "id": "simple-rpc-fabric",
-          "name": "simple-rpc-fabric",
-          "filename": "simple-rpc-fabric.jar",
-          "state": "present",
-          "url": "https://media.forgecdn.net/files/3596/443/simple-rpc-fabric-1.18.x-2.7.1.jar.jar",
-          "hash": "520df65a63d1df2bb7b1070f875e7965c6a5f969679f7db28679048a9853e8ed"
-        },
-        {
-          "id": "worldeditcui",
-          "name": "WorldEditCUI",
-          "filename": "worldeditcui.jar",
-          "state": "present",
-          "url": "https://media.forgecdn.net/files/3631/378/WorldEditCUI-1.18.1%2B01.jar",
-          "hash": "5399c1ea568c43525533ea7bd0a8a48cb25bd4f8a06677b31581d81512293f82"
-        },
-        {
-          "id": "worldedit",
-          "name": "worldedit",
-          "filename": "worldedit.jar",
-          "state": "present",
-          "url": "https://media.forgecdn.net/files/3631/606/worldedit-mod-7.2.9.jar",
-          "hash": "b28814a3a0420a5ef3dffa10a73fcc650a6cddc5c924edb51a74d60edb5066ff"
-        },
-        {
           "id": "lazydfu",
           "name": "LazyDFU",
           "filename": "lazydfu.jar",
