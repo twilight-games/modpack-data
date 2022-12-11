@@ -53,23 +53,16 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           path: ../modpacks
-      - name: Clone repo
-        run: git clone https://github.com/$GITHUB_REPOSITORY --branch main --depth 1 --single-branch repo
+      - name: Create build folder
+        run: mkdir build
+      - name: Move modpacks.json to build folder
+        run: cp modpacks.json ./build
         working-directory: ../
-      - name: Create new orphan branch
-        run: git checkout --orphan build
-        working-directory: ../repo
-      - name: Move modpacks to new repo
-        run: find ../modpacks -name '*.mrpack' -exec cp {} ../repo \;
-      - name: Move modpacks.json to new repo
-        run: cp modpacks.json ../repo
-      - name: Push to branch
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "[CI] Build modpacks"
-          git push origin build --force
-        working-directory: ../repo
-
-      
+      - name: Move modpacks to build folder
+        run: find ../modpacks -name '*.mrpack' -exec cp {} ./build \;
+      - name: Push to repository
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          force_orphan: true
