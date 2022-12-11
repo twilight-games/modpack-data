@@ -53,16 +53,23 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           path: ../modpacks
-      - name: Move modpacks to working directory
-        run: find ../modpacks -name '*.mrpack' -exec cp {} . \;
+      - name: Clone repo
+        run: git clone https://github.com/$GITHUB_REPOSITORY --branch main --depth 1 --single-branch repo
+        working-directory: ../
+      - name: Create new orphan branch
+        run: git checkout --orphan build
+        working-directory: ../repo
+      - name: Move modpacks to new repo
+        run: find ../modpacks -name '*.mrpack' -exec cp {} ../repo \;
+      - name: Move modpacks.json to new repo
+        run: cp modpacks.json ../repo
       - name: Push to branch
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "[CI] Automated modpack build"
-          branch: build
-          create_branch: true
-          push_options: '--force'
-          file_pattern: "*.mrpack"
-
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "[CI] Build modpacks"
+          git push origin build --force
+        working-directory: ../repo
 
       
