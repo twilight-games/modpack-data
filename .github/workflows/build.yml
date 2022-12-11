@@ -19,9 +19,6 @@ jobs:
     strategy:
       matrix: 
         include: ${{ fromJSON(needs.index-modpacks.outputs.modpacks).modpacks }}
-    defaults:
-      run: 
-        working-directory: ${{ matrix.id }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -31,9 +28,13 @@ jobs:
           go-version: '>=1.18.0'
       - name: Setup packwiz
         run: go install github.com/packwiz/packwiz@latest
+      - name: Refresh packwiz index
+        run: packwiz refresh
+        working-directory: ${{ matrix.id }}
       - name: Build modpack
         run: packwiz modrinth export --restrictDomains=false
+        working-directory: ${{ matrix.id }}
       - uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.name }}
-          path: "*.mrpack"
+          path: "${{ matrix.id }}/*.mrpack"
