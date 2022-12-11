@@ -57,6 +57,8 @@ jobs:
         run: ls -R ../modpacks
       - name: Move modpacks to working directory
         run: find ../modpacks -name '*.mrpack' -exec cp {} . \;
+      - name: List files
+        run: ls -R .
       - name: Push to branch
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
