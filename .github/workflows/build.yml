@@ -17,7 +17,7 @@ jobs:
     needs: index-modpacks
     runs-on: ubuntu-latest
     strategy:
-      matrix: ${{ needed.index-modpacks.outputs.modpacks }}
+      matrix: ${{ needs.index-modpacks.outputs.modpacks }}
     steps:
       - run: echo $modpack
         env:
