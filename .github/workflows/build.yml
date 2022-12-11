@@ -1,0 +1,24 @@
+---
+name: Build modpacks
+on: push
+jobs:
+  index-modpacks:
+    name: Generate matrix based on available modpacks
+    runs-on: ubuntu-latest
+    outputs:
+      modpacks: ${{ fromJSON(steps.list-modpacks.outputs).modpacks }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - id: list-modpacks
+        name: List modpacks
+        run: cat modpacks.json >> $GITHUB_OUTPUT
+  build-modpack:
+    needs: index-modpacks
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ needed.index-modpacks.outputs.modpacks }}
+    steps:
+      - run: echo $modpack
+        env:
+          modpack: ${{ toJSON(matrix) }}
