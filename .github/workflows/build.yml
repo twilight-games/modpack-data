@@ -54,7 +54,7 @@ jobs:
         with:
           path: ../modpacks
       - name: List files
-        run: ls -r ../modpacks
+        run: echo $(ls -r ../modpacks)
       - name: Move modpacks to working directory
         run: find ../modpacks -name '*.mrpack' -exec cp {} . \;
       - name: Push to branch
