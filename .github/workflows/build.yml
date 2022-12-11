@@ -19,6 +19,7 @@ jobs:
     strategy:
       matrix: 
         include: ${{ fromJSON(needs.index-modpacks.outputs.modpacks).modpacks }}
+    name: Build ${{ matrix.name }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
