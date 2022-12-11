@@ -6,19 +6,35 @@ jobs:
     name: Generate matrix based on available modpacks
     runs-on: ubuntu-latest
     outputs:
-      modpacks: ${{ fromJSON(steps.list-modpacks.outputs.modpacks).modpacks }}
+      modpacks: ${{ steps.list-modpacks.outputs.modpacks }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - id: list-modpacks
         name: List modpacks
-        run: echo "modpacks=" | cat modpacks.json >> $GITHUB_OUTPUT
+        run: echo modpacks=$(cat modpacks.json) >> $GITHUB_OUTPUT
   build-modpack:
     needs: index-modpacks
     runs-on: ubuntu-latest
     strategy:
-      matrix: ${{ needs.index-modpacks.outputs.modpacks }}
+      matrix: 
+        include: ${{ fromJSON(needs.index-modpacks.outputs.modpacks).modpacks }}
+    defaults:
+      run: 
+        working-directory: ${{ matrix.id }}
     steps:
-      - run: echo $modpack
-        env:
-          modpack: ${{ toJSON(matrix) }}
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup golang
+        uses: actions/setup-go@v3
+        with:
+          go-version: '>=1.18.0'
+          cache: true
+      - name: Setup packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Build modpack
+        run: packwiz modrinth export --restrictDomains=false
+      - uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.name }}
+          path: "*.mrpack"
