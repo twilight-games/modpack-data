@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "6da635e48fcb0c90e745fea35895c75d2cbc4ef1db158260febb1f93b38ab530"
+metafile = true
+
+[[files]]
+file = "resourcepacks/alacrity.pw.toml"
+hash = "132a0a19f8a5ffa829efead30f6e77187e4e877b80fec0de45e9922070f9fc55"
+metafile = true

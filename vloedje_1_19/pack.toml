@@ -1,0 +1,12 @@
+name = "Vloedje 1.19"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eda297cd8b2302e6b422f0b78c1d0b240906b00f87724d247cbb3901a45d4a21"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.18.1-beta.23"

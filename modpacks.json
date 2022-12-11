@@ -1,11 +1,10 @@
 {
   "modpacks": [
     {
-      "id": "vloedje_1_19_3",
+      "id": "vloedje_1_19",
       "name": "VloedjeSMP 1.19.3",
       "description": "The real VloedjeSMP Modpack",
-      "version": "1.0.0",
-      "mrpack_url": "https://modpack.vloedje.nl/modpacks/Vloedje_SMP.mrpack"
-    } 
-  ] 
+      "version": "1.0.0"
+    }
+  ]
 }

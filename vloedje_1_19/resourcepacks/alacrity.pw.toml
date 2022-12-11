@@ -1,0 +1,13 @@
+name = "Alacrity"
+filename = "alacrity.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PUUpX2qq/versions/dfyK9p69/Alacrity.zip"
+hash-format = "sha1"
+hash = "320246a13a3863409527ffe4e98e63b83f3914b8"
+
+[update]
+[update.modrinth]
+mod-id = "PUUpX2qq"
+version = "dfyK9p69"
