@@ -52,9 +52,9 @@ jobs:
       - name: Download modpacks
         uses: actions/download-artifact@v3
         with:
-          path: /modpacks
+          path: ../modpacks
       - name: Move modpacks to working directory
-        run: find /modpacks/* -name '*.mrpack' -exec cp {} . \;
+        run: find ../modpacks/* -name '*.mrpack' -exec cp {} . \;
       - name: Push to branch
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
