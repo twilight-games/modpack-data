@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a1a51c72e4c03a78694160c6d9136787df039fd55bdf720263cc20487b4244c2"
+metafile = true

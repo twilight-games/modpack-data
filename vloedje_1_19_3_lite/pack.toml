@@ -1,0 +1,13 @@
+name = "Vloedje 1 19 3 Lite"
+author = "EEstar"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4d9f8f0c7a8680f1d22c2032ba0ba7cb5d4301e0f413ab7522c27147d74d7a81"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.18.1-beta.23"
