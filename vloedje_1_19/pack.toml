@@ -1,12 +1,16 @@
-name = "Vloedje 1.19"
+name = "Vloedje SMP"
+author = "EEstar"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e21417a6fe790b2b8f9bf2ebd97a298e762fb2ddab960c3e817ed48e052b51b9"
+hash = "f66bb600973ea442474bbc94e8cdfb82f58c94c85cd1d640f84a24804ec15080"
 
 [versions]
 minecraft = "1.19.3"
-quilt = "0.18.1-beta.23"
+quilt = "0.18.1-beta.25"
+
+[options]
+acceptable-game-versions = ["1.19.3", "1.19.2", "1.19.1", "1.19"]

@@ -1,0 +1,11 @@
+name = "Chocapic"
+filename = "Chocapic13_V9.1_Extreme_beta_5.zip"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/3221/720/Chocapic13_V9.1_Extreme_beta_5.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "12de833f3e268d403cc2b676593d8890c57b2f704bdd7a83c1bc40a027045bc7"

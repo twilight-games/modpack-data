@@ -1,0 +1,8 @@
+name = "By Design"
+filename = "bydesign-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4152/769/bydesign-1.0.4.jar"
+hash-format = "sha1"
+hash = "d62b415ae4d8789415bb49297411dc0b9ba1db9c"

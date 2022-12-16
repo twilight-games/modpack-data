@@ -1,0 +1,13 @@
+name = "Nether Coords"
+filename = "nether-coords-1.19.x-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KHwGUCPn/versions/d8w9gIE3/nether-coords-1.19.x-1.1.2.jar"
+hash-format = "sha1"
+hash = "4dfdc2c36488bdbfbb84614d3179d601f6bf2458"
+
+[update]
+[update.modrinth]
+mod-id = "KHwGUCPn"
+version = "d8w9gIE3"

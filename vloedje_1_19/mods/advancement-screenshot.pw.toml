@@ -1,0 +1,13 @@
+name = "Advancement Screenshot"
+filename = "advancementscreenshot-fabric_1.19.3-3.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/rSG5224f/advancementscreenshot-fabric_1.19.3-3.9.jar"
+hash-format = "sha1"
+hash = "4e461ef151fbe1066a6296bb383705dc308bcea0"
+
+[update]
+[update.modrinth]
+mod-id = "lU8KbfG2"
+version = "rSG5224f"

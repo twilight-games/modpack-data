@@ -1,0 +1,16 @@
+name = "Faithful-32x"
+filename = "Faithful 32x - 1.19.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w0TnApzs/versions/zlfBn4Dg/Faithful%2032x%20-%201.19.3.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "89469d8b890cefa9c4d4f015af37934392657ee853fa2f09ed615141800cacb9"
+
+[update]
+[update.modrinth]
+mod-id = "w0TnApzs"
+version = "zlfBn4Dg"

@@ -1,0 +1,13 @@
+name = "AriKeys"
+filename = "arikeys-fabric-2.1-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JH2im5qG/versions/DxdTL300/arikeys-fabric-2.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "5adeb5609c3ec0b1d50da59765f975e09b5f3396"
+
+[update]
+[update.modrinth]
+mod-id = "JH2im5qG"
+version = "DxdTL300"

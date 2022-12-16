@@ -1,0 +1,16 @@
+name = "Faithful-64x"
+filename = "Faithful 64x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4GILswZ/versions/beta-5.1/Faithful%2064x.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "f048e5127145a9c74da8fe45706ee1cb748c22397b62b270491b8de0541077ed"
+
+[update]
+[update.modrinth]
+mod-id = "r4GILswZ"
+version = "MLHY0Lhu"

@@ -1,0 +1,5 @@
+The shaderpacks are not responsible if you encounter issues with them while using this modpack, contact us the modpack makers!!
+
+Credits:
+Complementary Shaders: https://www.complementary.dev/
+BSL Shaders: https://bitslablab.com/bslshaders/
