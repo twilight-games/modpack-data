@@ -547,6 +547,11 @@ hash = "a61587bf3c44d762483ce9881e659b4e82c2309535c721450b1b05689c26f35d"
 metafile = true
 
 [[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "67490fc242d453c76f8a49774a7253434c2e21bfbe36735c0f9031047069c039"
+metafile = true
+
+[[files]]
 file = "mods/thorium.pw.toml"
 hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
 metafile = true
@@ -596,38 +601,8 @@ file = "options.txt"
 hash = "268752132ee8469c8637275b982b527169956983e71fedcdd9a4ea6bba2418b6"
 
 [[files]]
-file = "resourcepacks/Alacrity.pw.toml"
-hash = "dcfca411b51f5a513695e1a986e321c672238db8700ec541a1df528b660dfdc3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/BareBones.pw.toml"
-hash = "464e899b7b8b6791ffbead154d78d0e57c1c102d5f3f19ee9c9824d9e345a635"
-metafile = true
-
-[[files]]
 file = "resourcepacks/DramaticSkys.pw.toml"
 hash = "0c79d68192bd12a348d9271d26a20f55ffc9540d56c35975bf51b3bc05dd2218"
-metafile = true
-
-[[files]]
-file = "resourcepacks/Faithful-32x.pw.toml"
-hash = "f67285c486dd22e34671f589747d846ce76ceed8c219dca3542d2567a8ee518b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/Faithful-64x.pw.toml"
-hash = "3deb76cf3825e063fed32fb0f938a8b51834a10da1fdd09f9d9e7121b870b4b1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/JohnSmithLegacy.pw.toml"
-hash = "eadc5eed8d6c4b185bbc505f468f5b9577ca72684859caeccede739676c4e381"
-metafile = true
-
-[[files]]
-file = "resourcepacks/StayTrue.pw.toml"
-hash = "aa26278580ea9360d58cde793d3f3ea7acbcafb4f39ec2aad4389ee3a23365cc"
 metafile = true
 
 [[files]]
