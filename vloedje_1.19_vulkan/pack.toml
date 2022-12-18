@@ -1,4 +1,4 @@
-name = "Vloedje SMP Lite"
+name = "Vloedje SMP Vulkan"
 author = "EEstar"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c69343433aca71c34d74649bb373f7869951db1af97862d15fb6ba0d1840a4f5"
+hash = "7d586d0c01a75c22fa54c0c05418ab013b2adcfc2b7fc59a81d402af6d6174fe"
 
 [versions]
 minecraft = "1.19.3"
