@@ -2,14 +2,20 @@
   "modpacks": [
     {
       "id": "vloedje_1_19",
-      "name": "VloedjeSMP 1.19.3",
-      "description": "The real VloedjeSMP Modpack",
+      "name": "Vloedje SMP 1.19.3",
+      "description": "De standaad client voor de Vloedje SMP",
       "version": "1.0.0"
     },
     {
       "id": "vloedje_1_19_lite",
-      "name": "VloedjeSMP 1.19.3 Lite",
-      "description": "The lite  VloedjeSMP Modpack",
+      "name": "Vloedje SMP 1.19.3 Lite",
+      "description": "De lichte client voor de Vloedje SMP",
+      "version": "1.0.0"
+    }
+    {
+      "id": "vloedje_1_19_vulkan",
+      "name": "Vloedje SMP 1.19.3 Vulkan",
+      "description": "De experimentele Vulkan client voor de Vloedje SMP",
       "version": "1.0.0"
     }
   ]
