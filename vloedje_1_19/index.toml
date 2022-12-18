@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "058a3e450b7da9707eca1ec29f8e82ae37ca398fe2672ed1b55ef53c9f611da1"
+
+[[files]]
 file = "config/blanket_client-fixes.json"
 hash = "de42ca5c4ee9a506861f425f6582f1b299a4f7bf684fc92b3f5458ffbb1c6898"
 
@@ -177,6 +181,11 @@ hash = "758b45ae3b0cd84daf50f29a2998c87c8a45b35dfc44c8294a6b91aca61b525f"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "a94aa801bd0d74bc2ddc988d17363d895e5defae5c502f19cf62099685812ed7"
+metafile = true
+
+[[files]]
 file = "mods/blanket.pw.toml"
 hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
@@ -198,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d71685e685b24eb825fc977a5a726fd07b6ce1b17942027e86c105057a0bfeab"
+hash = "0680cd92cd9b74b1fcdeecc558b01ba7ff3d50b22426ba8e5fbfd56c791903e3"
 metafile = true
 
 [[files]]
@@ -233,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/damage-tilt.pw.toml"
-hash = "47fc3c834eea3ed3ffa06961b124bcaf3a54e00e7ac8fcc1879ffad1af712053"
+hash = "18778aa4fd34be98f8d8b63cbf941fb899dd3f019151a40394d004b7488d3309"
 metafile = true
 
 [[files]]
@@ -307,8 +316,13 @@ hash = "40ab297d3d9966c7b698e9d34e833d4cfc9d170f9dc41fac138ee63cbad6d28e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
+metafile = true
+
+[[files]]
 file = "mods/hatlist.pw.toml"
-hash = "918e3862f2c6d3185ebc72b3955e3f209c973ac5d27b2b7d7fd7b225bbb25d89"
+hash = "0676617c4c7cf532284e3f7a477323b3c4472b76a67f30037e8f224f8f9966ee"
 metafile = true
 
 [[files]]
@@ -353,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "07ffed99134a0873a62907310d61c15f843fea994f1c89b9ccca08433f7b698a"
+hash = "bea452a8825f18f67c0e57702435fa8ce89c7946927e7b72bacaa5ec8dd97518"
 metafile = true
 
 [[files]]
@@ -373,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "793ee1ce6df3caa67c66271b1591f0132974c5ba8e798d2e7a3258975ffe4b23"
+hash = "3a67eaa983e2b91f3fed13d359f256b6435f41b6330d76607721be436d0064ea"
 metafile = true
 
 [[files]]
@@ -383,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "e8b2fc9a13e3ecfeaaf6233a15875a4d2dd4419888b95c09c50962e6b560dddb"
+hash = "ea6723351e0a5f400d8d24154ff2c5a683624c43261c364711c479ea3e7f462c"
 metafile = true
 
 [[files]]
@@ -588,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "700c7d3d7d4eb1f5eb8b4ef78ea79b6d230db33107404b26e17644c6871f01e7"
+hash = "0b566032be89a748d6fba69c33d830247970c221657b5034c25f76e929624d45"
 metafile = true
 
 [[files]]
@@ -604,10 +618,6 @@ hash = "268752132ee8469c8637275b982b527169956983e71fedcdd9a4ea6bba2418b6"
 file = "resourcepacks/DramaticSkys.pw.toml"
 hash = "0c79d68192bd12a348d9271d26a20f55ffc9540d56c35975bf51b3bc05dd2218"
 metafile = true
-
-[[files]]
-file = "resourcepacks/credits.txt"
-hash = "054ba3ee2809db432371147ec5ca7ce02579818ab0b9a90562c8dfd7be642d7f"
 
 [[files]]
 file = "shaderpacks/BSL.pw.toml"
@@ -678,7 +688,3 @@ metafile = true
 file = "shaderpacks/Solas.pw.toml"
 hash = "4ce3e520d0e443a3fde03aae41d6f83f20964823f1ffb8a2d11d24e02b0f04aa"
 metafile = true
-
-[[files]]
-file = "shaderpacks/credits.txt"
-hash = "e613fceb70aac26ac651295dab059fa5547f5b76fd167e623aa5344cd550c41d"

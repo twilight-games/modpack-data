@@ -3,11 +3,6 @@ filename = "litematica-fabric-1.19.3-0.13.0.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/4162/847/litematica-fabric-1.19.3-0.13.0.jar"
 hash-format = "sha1"
 hash = "19ec343895538d748066582bda02cd41707c1d68"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4162847
-project-id = 308892

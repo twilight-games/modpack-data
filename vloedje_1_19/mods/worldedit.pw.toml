@@ -3,11 +3,6 @@ filename = "worldedit-mod-7.2.13.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/4162/208/worldedit-mod-7.2.13.jar"
 hash-format = "sha1"
 hash = "fc3bb0c35d9275c53fd1840fdc1344dba785cacf"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4162208
-project-id = 225608
