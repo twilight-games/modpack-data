@@ -1,0 +1,13 @@
+name = "Perspektive"
+filename = "perspektive-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/santxgdT/versions/NyqzuzTz/perspektive-1.2.2.jar"
+hash-format = "sha1"
+hash = "26e38b75c78f79891355740d2343a0d656ab4e4b"
+
+[update]
+[update.modrinth]
+mod-id = "santxgdT"
+version = "NyqzuzTz"

@@ -191,6 +191,11 @@ hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
 
 [[files]]
+file = "mods/block_limit_fix.pw.toml"
+hash = "1cc5bb0690f987e7d0442c2fac6e5a8d28b07e82619b7b4f03d19653e9331f4a"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
@@ -326,6 +331,11 @@ hash = "0676617c4c7cf532284e3f7a477323b3c4472b76a67f30037e8f224f8f9966ee"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "2dd4a5155c3c0ebfb1c0c2fb50391b50e79a054dbd4b711f6c49f25a4f4bcccc"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -422,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c5913a52745dd2a220823bea22dd24af5802e7e304092aedd6e5a4c35b835fbd"
+hash = "a26e7d1a56694ec929cbeb750a85e7946bc034356cd52a987004b8b127b9f95e"
 metafile = true
 
 [[files]]
@@ -451,6 +461,11 @@ hash = "739a34fbd52318bfafdc8d8bf5b6908e0c0611e6145c5dd8041fe2ff3123d4bc"
 metafile = true
 
 [[files]]
+file = "mods/perspektive.pw.toml"
+hash = "b5176df46a58f755b443f7bc0474a612168e1ef7189d4fbb471ecf0d4f63764b"
+metafile = true
+
+[[files]]
 file = "mods/purpurclient.pw.toml"
 hash = "99f4f6ef608fdc6e797058f4956bac7111711f1aab20d9e2399fbf83b570e420"
 metafile = true
@@ -467,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "010cebb18ad462d1cd8a755f807815690aea26c97ed3f4c11458adbbceab964d"
+hash = "08d0b0f3ef1c44bed3b3acca5d95960d3d71055c2c8f103c036d3823069f3187"
 metafile = true
 
 [[files]]
@@ -512,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "c66593ae78e2f6a22ff613d288918a90db5d18a15a94472fdf4584c5398cdd21"
+hash = "5f95245ec426a456db0ae88dec492847603e6a630a32bbcab9952cd30d827f6e"
 metafile = true
 
 [[files]]
@@ -537,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fd4f2019c75f05a79a031e1e8e640e202fa1f6807f93eaa013d923db3b477e60"
+hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
 metafile = true
 
 [[files]]
