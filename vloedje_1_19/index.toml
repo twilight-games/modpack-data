@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/block_limit_fix.pw.toml"
-hash = "1cc5bb0690f987e7d0442c2fac6e5a8d28b07e82619b7b4f03d19653e9331f4a"
+hash = "160687652dd7c235f406121bc54134df0237ec25a8173e201ee4b18cff2562aa"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a1a51c72e4c03a78694160c6d9136787df039fd55bdf720263cc20487b4244c2"
+hash = "7100062150a4e38ddb6674045ab5c2aaf76043aa0e3045215e1c4f72f3ad4ceb"
 metafile = true
 
 [[files]]
