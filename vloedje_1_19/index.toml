@@ -246,6 +246,11 @@ hash = "14ae35d6dd3f8e8284c3bb6a6e433218919ebae55bb9bac227c20a3af05cd18b"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "7d5057569f2fddad974425c8ef06cf2100f7a6acfbc1a45a844d145e1ea59cd7"
+metafile = true
+
+[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "18778aa4fd34be98f8d8b63cbf941fb899dd3f019151a40394d004b7488d3309"
 metafile = true
@@ -317,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "40ab297d3d9966c7b698e9d34e833d4cfc9d170f9dc41fac138ee63cbad6d28e"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
@@ -376,6 +381,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "b24b75c496e2850e9c0548796d95067c8b6cc78d52b7f4e42972d53b324424e4"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "bea452a8825f18f67c0e57702435fa8ce89c7946927e7b72bacaa5ec8dd97518"
 metafile = true
@@ -398,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3a67eaa983e2b91f3fed13d359f256b6435f41b6330d76607721be436d0064ea"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
@@ -477,12 +492,17 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "8f8db3e41388ab86919ec46bcfb4080fd0d2e6bc353cca24614105fde6df0b5f"
+hash = "848687370ee00a06ef5f24a0fd71c6c4c83452bd9b003f8edf42807b6439f6fe"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "08d0b0f3ef1c44bed3b3acca5d95960d3d71055c2c8f103c036d3823069f3187"
+metafile = true
+
+[[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "cce33cf20357ed79d306e6897ae3789846014d34f37e65cd12a12a9805837940"
 metafile = true
 
 [[files]]
@@ -682,11 +702,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/SildursVibrantShadersHigh.pw.toml"
 hash = "40a6eef793d748deb0aad93d6f98e42f302a9ddb7291bcb3463652851f99fe0f"
-metafile = true
-
-[[files]]
-file = "shaderpacks/SildursVibrantShadersHighMB.pw.toml"
-hash = "493b0d2fb887957fbb310b09fc7917b57355fd9d8fe4d4ce98c51cb3be9829ac"
 metafile = true
 
 [[files]]
