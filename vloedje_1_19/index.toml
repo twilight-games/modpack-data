@@ -17,6 +17,10 @@ file = "config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
+file = "config/chat_heads.json5"
+hash = "672f051739f6d50df1d3c0d4d4c5ab7a1d7bba97f5bc3f22482ccb4b93ed1a32"
+
+[[files]]
 file = "config/draggable-resource-packs.json5"
 hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
 
@@ -247,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7d5057569f2fddad974425c8ef06cf2100f7a6acfbc1a45a844d145e1ea59cd7"
+hash = "a39a795cd8847bb1e942123a72dc9f33b42c58b1709fcdb367044fddd78b59ba"
 metafile = true
 
 [[files]]
@@ -322,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+hash = "2d604a088e97a8c065869b51c4299934c75fb8aaa3f4265da8fd84f7c2362aee"
 metafile = true
 
 [[files]]
@@ -366,6 +370,11 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "7636e703bfc0dcc584bfa1eb758cb82b61e7e5af1d025693e8d3a90ee3e2632d"
 metafile = true
@@ -382,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "b24b75c496e2850e9c0548796d95067c8b6cc78d52b7f4e42972d53b324424e4"
+hash = "2d200815ff6536ca9b5e659270b52d7d722ec122dfe503425ff89e5befa024e7"
 metafile = true
 
 [[files]]
@@ -497,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "08d0b0f3ef1c44bed3b3acca5d95960d3d71055c2c8f103c036d3823069f3187"
+hash = "9ecb7fc18ecb0a55843677d4ac0cc6886faeb3ded15a16368828e7aacdb6b166"
 metafile = true
 
 [[files]]
@@ -583,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+metafile = true
+
+[[files]]
+file = "mods/splasher.pw.toml"
+hash = "30ae5e91e7cca9a508a6279079f4c73afb21d2ad94336e94c3ddcbb27a4a79ec"
 metafile = true
 
 [[files]]
