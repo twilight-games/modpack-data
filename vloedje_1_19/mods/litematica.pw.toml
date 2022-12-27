@@ -1,8 +1,8 @@
 name = "Litematica"
-filename = "litematica-fabric-1.19.3-0.13.0.jar"
+filename = "litematica-fabric-1.19.3-0.13.1.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/4162/847/litematica-fabric-1.19.3-0.13.0.jar"
+url = "https://mediafilez.forgecdn.net/files/4259/746/litematica-fabric-1.19.3-0.13.1.jar"
 hash-format = "sha1"
-hash = "19ec343895538d748066582bda02cd41707c1d68"
+hash = "01e344d33b518c8ab3c7593fc8c83ff53ca5f7d0"

@@ -73,12 +73,32 @@ file = "config/replaymod.json"
 hash = "619b4235282a33e601c1ad3096323c633a79b8b2392f68d1f03984d40ea31c3a"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "e3d65028b237987261941fc7c18772e579e44b56a4372c889f1b9c991fefbbb7"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "949dd24e555db9b37cd7b5460cea047607132f412037b6f7d77d252d4a760991"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "8f420e0c905636227e9cd9dc76ca02ca9976b5b1156224bab205852367adba36"
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "config/splasher.toml"
+hash = "1774d4f3f3b165225461e425938d692ff5febf12f82538c797d98edd247d034d"
+
+[[files]]
+file = "config/splasher/en_us.txt"
+hash = "0f16093440fafbd27e107335f1fd78b3b84debb4c9c54a8bf1efb7d5d5c5b2d6"
 
 [[files]]
 file = "config/tiptapshow.toml"
@@ -170,6 +190,16 @@ hash = "00d8a4cdf1fecfb1b471e21546d7817bddb252aab3ea72d167ae690935a3847f"
 metafile = true
 
 [[files]]
+file = "mods/audioshutdown.pw.toml"
+hash = "25a90c0af7a0c86fd2950e385246746cf0eba8af83348cf71d6fc18516e9b64a"
+metafile = true
+
+[[files]]
+file = "mods/bbor.pw.toml"
+hash = "e1142e738b5747cedeb7db864e6db3cd2af034e9e85dddf67e91983368793347"
+metafile = true
+
+[[files]]
 file = "mods/beer.pw.toml"
 hash = "0113ace057812dd0644b2347a398b9bde9ba239f0cac8d9cadc30575ebce982f"
 metafile = true
@@ -196,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/block_limit_fix.pw.toml"
-hash = "160687652dd7c235f406121bc54134df0237ec25a8173e201ee4b18cff2562aa"
+hash = "3297614b6aef5f4ae6ca7ec42b9799bcc3c9529ec82f181a9ecbcc6e2d81b857"
 metafile = true
 
 [[files]]
@@ -247,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "14ae35d6dd3f8e8284c3bb6a6e433218919ebae55bb9bac227c20a3af05cd18b"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "a39a795cd8847bb1e942123a72dc9f33b42c58b1709fcdb367044fddd78b59ba"
 metafile = true
 
 [[files]]
@@ -326,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "2d604a088e97a8c065869b51c4299934c75fb8aaa3f4265da8fd84f7c2362aee"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
@@ -347,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9ccf160a03cbda989ebed2c4fcd4ee02e6a33e06eb31c50504bdbcbd140e17dc"
 metafile = true
 
 [[files]]
@@ -376,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7636e703bfc0dcc584bfa1eb758cb82b61e7e5af1d025693e8d3a90ee3e2632d"
+hash = "a64d0a8179047cef78534718299910772c25d0da824fa269770406dd0940e1ca"
 metafile = true
 
 [[files]]
@@ -396,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "bea452a8825f18f67c0e57702435fa8ce89c7946927e7b72bacaa5ec8dd97518"
+hash = "855eb1b6d520659c58f92aab2cb23fa129b6797b5394c78b5438494e1e8362ee"
 metafile = true
 
 [[files]]
@@ -495,6 +525,11 @@ hash = "99f4f6ef608fdc6e797058f4956bac7111711f1aab20d9e2399fbf83b570e420"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
+metafile = true
+
+[[files]]
 file = "mods/qcc.pw.toml"
 hash = "40342b7951b6c055456fc9e5abb02f393cad2e460c17cc5d98b5f00c1acb285b"
 metafile = true
@@ -560,8 +595,13 @@ hash = "5f95245ec426a456db0ae88dec492847603e6a630a32bbcab9952cd30d827f6e"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7100062150a4e38ddb6674045ab5c2aaf76043aa0e3045215e1c4f72f3ad4ceb"
+hash = "b5a4816a0cc8896b33413593ea39993d157b17edb1920fb40c0d40656a707745"
 metafile = true
 
 [[files]]
@@ -596,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/splasher.pw.toml"
-hash = "30ae5e91e7cca9a508a6279079f4c73afb21d2ad94336e94c3ddcbb27a4a79ec"
+hash = "4c8e0aab9db985cb500e93eff4e271030756c7c5057bdd5037d97a5436bd76d2"
 metafile = true
 
 [[files]]
@@ -656,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "acf2076ba440f421f3447041d97169c09fd9abd99ec59250a5bfe75ea72d02f0"
+hash = "6150fd8b9eef240bac21d1f33781a439763aff00d620caa7c3a4345147ab3566"
 metafile = true
 
 [[files]]
