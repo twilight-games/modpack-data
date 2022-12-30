@@ -1,0 +1,13 @@
+name = "FX's Rail Optimization"
+filename = "RailOptimization-1.0+1.19.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/htPoettw/versions/36XHggGp/RailOptimization-1.0%2B1.19.3-fabric.jar"
+hash-format = "sha1"
+hash = "e042c33a7de952b9b1c8190b17991d0bcb628f55"
+
+[update]
+[update.modrinth]
+mod-id = "htPoettw"
+version = "36XHggGp"

@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1b5b0eed617a4a09c3b27592c6a595959b8df6eb10d42cad9094aef0e8af2f7"
+hash = "1365432dc0228dc44e2cf77ec45904d90191ade8fa0edc9cf858e66bb40e8d83"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a26e7d1a56694ec929cbeb750a85e7946bc034356cd52a987004b8b127b9f95e"
+hash = "133ec9cccfd238b4ce6bd5b95dcf70a9603c86d7c22a347c483925b34425fbb5"
 metafile = true
 
 [[files]]
@@ -542,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/quickconnectbutton.pw.toml"
 hash = "cce33cf20357ed79d306e6897ae3789846014d34f37e65cd12a12a9805837940"
+metafile = true
+
+[[files]]
+file = "mods/rail-optimization.pw.toml"
+hash = "bedd39d40bbca3d28b26843c6dbd50cef6f890b9cb5cf55f90f031d42493d527"
 metafile = true
 
 [[files]]
