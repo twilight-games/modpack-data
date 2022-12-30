@@ -1,0 +1,13 @@
+name = "Chunk Copy"
+filename = "chunkcopy-2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qPWd0l6O/versions/v2.4b/chunkcopy-2.4.jar"
+hash-format = "sha1"
+hash = "099a51b39f1d732793c95d20334f3c7a7684ec7c"
+
+[update]
+[update.modrinth]
+mod-id = "qPWd0l6O"
+version = "zZPxClXW"

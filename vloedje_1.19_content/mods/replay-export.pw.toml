@@ -1,0 +1,13 @@
+name = "Replay Export"
+filename = "mc-world-export-0.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iwvovClp/versions/RamL1nZL/mc-world-export-0.5.0.jar"
+hash-format = "sha1"
+hash = "3e8dc51119dd5c47402d7500ee8d695e25afb9eb"
+
+[update]
+[update.modrinth]
+mod-id = "iwvovClp"
+version = "RamL1nZL"

@@ -1,0 +1,8 @@
+name = "Damage Tilt"
+filename = "DamageTilt-1.19-fabric-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/3841/695/DamageTilt-1.19-fabric-0.1.2.jar"
+hash-format = "sha1"
+hash = "ea47d7b08400b6ca96ab14234ac9d9154b1906a8"

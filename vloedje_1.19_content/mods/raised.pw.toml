@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-fabric-1.19.3-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/OvtfPyeu/raised-fabric-1.19.3-1.1.4.jar"
+hash-format = "sha1"
+hash = "b5e1a8bc5fef5d07f56adda24c28156e1b65b19d"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "OvtfPyeu"

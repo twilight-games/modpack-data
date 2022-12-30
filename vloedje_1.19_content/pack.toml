@@ -1,0 +1,13 @@
+name = "Vloedje SMP Content Creator"
+author = "EEstar"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ef4e0062f8a4a34acabc7ae6d6dbb9aa70e16b9e865dae2bad287e5961e6a4a"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.18.1-beta.25"

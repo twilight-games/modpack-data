@@ -17,6 +17,12 @@
       "name": "Vloedje SMP 1.19.3 Vulkan",
       "description": "De experimentele Vulkan client voor de Vloedje SMP",
       "version": "1.0.0"
+    },
+    {
+      "id": "vloedje_1_19_content",
+      "name": "Vloedje SMP 1.19.3 Content Creator",
+      "description": "Content creator functies",
+      "version": "1.0.0"
     }
   ]
 }

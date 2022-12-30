@@ -211,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-taskbar.pw.toml"
-hash = "758b45ae3b0cd84daf50f29a2998c87c8a45b35dfc44c8294a6b91aca61b525f"
+hash = "08c5cac3d901fed04321b94dda93c2b64e3310c80024a4db8a425d83bfdb0f9d"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "a94aa801bd0d74bc2ddc988d17363d895e5defae5c502f19cf62099685812ed7"
+hash = "11fe9da06043756e637e29d0e051f6745a788464a551808534162a96616c8615"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9ccf160a03cbda989ebed2c4fcd4ee02e6a33e06eb31c50504bdbcbd140e17dc"
+hash = "d1b5b0eed617a4a09c3b27592c6a595959b8df6eb10d42cad9094aef0e8af2f7"
 metafile = true
 
 [[files]]
@@ -470,11 +470,6 @@ hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
-file = "mods/modeldumper.pw.toml"
-hash = "023ed05f80651c6fdd2777d99a261de936f4078e23f67bac2932189ac146e8c0"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
 metafile = true
@@ -565,11 +560,6 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "d09ce4a7162e674a57a967255ea1c458db6c4ce75a840681c68dccf9881b1e99"
-metafile = true
-
-[[files]]
 file = "mods/roundaround-axolotl-buckets.pw.toml"
 hash = "babcd7c265ebb491e5036bec3be4d9050de69c1257781f41463994cc20421351"
 metafile = true
@@ -636,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/splasher.pw.toml"
-hash = "4c8e0aab9db985cb500e93eff4e271030756c7c5057bdd5037d97a5436bd76d2"
+hash = "e00afe87d7508219fc7753002cf9ec0de4481e27cb2218ecefa5d8ca044d5d07"
 metafile = true
 
 [[files]]
@@ -666,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiptapshow.pw.toml"
-hash = "968bca2a92801ab09b778b65ac169ad7535512fa9ea69419d09e08deb066ee52"
+hash = "01c91691d7125aa02a15b53273e470e26f54ed0ce82c1fd3fc6b9b1d96d6ed46"
 metafile = true
 
 [[files]]

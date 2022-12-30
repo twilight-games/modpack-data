@@ -1,0 +1,11 @@
+name = "SildursVibrantShadersLite"
+filename = "Sildur's+Vibrant+Shaders+v1.41+Lite.zip"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4019/714/Sildur%27s+Vibrant+Shaders+v1.41+Lite.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "19fc45192cfa5129dcd02d68b77f60385efb565a10cab4bbc560894fea85bdc0"

@@ -1,0 +1,11 @@
+name = "SildursEnhancedDefaultFancy"
+filename = "Sildur's+Enhanced+Default+v1.141+Fancy.zip"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4019/713/Sildur%27s+Enhanced+Default+v1.141+Fancy.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b40965f2abb2f7caba8abadca0c8aaceebe16d52d1050d6807b0c4837ca6b9d1"
