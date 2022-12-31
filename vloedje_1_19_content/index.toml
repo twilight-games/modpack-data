@@ -290,6 +290,11 @@ hash = "14ae35d6dd3f8e8284c3bb6a6e433218919ebae55bb9bac227c20a3af05cd18b"
 metafile = true
 
 [[files]]
+file = "mods/creatoroverlays.pw.toml"
+hash = "6a3c79220a05d3dff31ceb9729ec1df41c2d14945228766f02a5c16dd0998cc8"
+metafile = true
+
+[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "18778aa4fd34be98f8d8b63cbf941fb899dd3f019151a40394d004b7488d3309"
 metafile = true
@@ -341,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ff49c6314d597c74bf5816c33ed6634da9d76dc8879951d86a64465cd7539e08"
+hash = "8b654dff011d2c3e81f86940a12f7242381c7828285881240fd1cf00b69a427a"
 metafile = true
 
 [[files]]
