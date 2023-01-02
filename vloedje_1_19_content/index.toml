@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/creatoroverlays.pw.toml"
-hash = "6a3c79220a05d3dff31ceb9729ec1df41c2d14945228766f02a5c16dd0998cc8"
+hash = "ea225741d0df38db5480b00642b2098eaeaf6a1eb2accd2b3577a27c85273853"
 metafile = true
 
 [[files]]
