@@ -1,13 +1,13 @@
 name = "DashLoader"
-filename = "dashloader-5.0.0-alpha.4+1.19.3.jar"
+filename = "dashloader-5.0.0-alpha.5+1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/XB4YnZ4X/dashloader-5.0.0-alpha.4%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/q9pA7KnN/dashloader-5.0.0-alpha.5%2B1.19.3.jar"
 hash-format = "sha1"
-hash = "f65b9c982946f26c88aafeeee53b39b8abef4158"
+hash = "ce4236e64c9552c88ab6320a74999fa50e526558"
 
 [update]
 [update.modrinth]
 mod-id = "ZfQ3kTvR"
-version = "XB4YnZ4X"
+version = "q9pA7KnN"
