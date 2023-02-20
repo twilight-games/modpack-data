@@ -1,13 +1,13 @@
 name = "Advancement Screenshot"
-filename = "advancementscreenshot-fabric_1.19.3-3.9.jar"
+filename = "advancementscreenshot-1.19.3-4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/rSG5224f/advancementscreenshot-fabric_1.19.3-3.9.jar"
+url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/AF4AZ4uz/advancementscreenshot-1.19.3-4.1.jar"
 hash-format = "sha1"
-hash = "4e461ef151fbe1066a6296bb383705dc308bcea0"
+hash = "2011b3c675af11ff0c82816061297406630bf75d"
 
 [update]
 [update.modrinth]
 mod-id = "lU8KbfG2"
-version = "rSG5224f"
+version = "AF4AZ4uz"
