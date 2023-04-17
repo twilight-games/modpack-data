@@ -1,8 +1,10 @@
-backgroundColor = -16777216
+isEnabled = false
+backgroundColor = 926762943
 pressedBackgroundColor = 926762823
 keyColor = 16777215
 pressedKeyColor = 0
-isEnabled = false
+rainbowMode = false
+rainbowOffset = 9
 renderInGui = true
 keyShadow = false
 showMovement = true

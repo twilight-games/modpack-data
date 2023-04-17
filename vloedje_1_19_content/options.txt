@@ -1,6 +1,8 @@
-version:3120
+version:3337
 autoJump:false
+advancedItemTooltips:true
 enableVsync:false
+directionalAudio:true
 realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
@@ -15,6 +17,7 @@ skipMultiplayerWarning:true
 skipRealms32bitWarning:true
 joinedFirstServer:true
 hideBundleTutorial:true
+onboardAccessibility:false
 syncChunkWrites:false
 key_key.amecs.toggle_auto_jump:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown

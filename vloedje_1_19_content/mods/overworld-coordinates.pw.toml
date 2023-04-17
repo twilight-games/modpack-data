@@ -1,13 +1,13 @@
 name = "Overworld Coordinates"
-filename = "overworld_coordinates-1.0.0.jar"
+filename = "overworld_coordinates-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WnMjHMA3/versions/h1RNqe33/overworld_coordinates-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/WnMjHMA3/versions/MI0ELJIG/overworld_coordinates-1.1.0.jar"
 hash-format = "sha1"
-hash = "86697659894bfd2612726765ea11661d991f452d"
+hash = "0408945e19ed56cf9df92c59f0cf91fc03912c3c"
 
 [update]
 [update.modrinth]
 mod-id = "WnMjHMA3"
-version = "h1RNqe33"
+version = "MI0ELJIG"

@@ -1,13 +1,13 @@
 name = "Creator Overlays"
-filename = "creatoroverlays-2.3.1.jar"
+filename = "creatoroverlays-2.3.2-1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mPiLAv6e/versions/DVG684Rj/creatoroverlays-2.3.1.jar"
+url = "https://cdn.modrinth.com/data/mPiLAv6e/versions/AuRaeDyk/creatoroverlays-2.3.2-1.19.4.jar"
 hash-format = "sha1"
-hash = "1adc54d2601253efd9baba5bd4c2fdd1087635f6"
+hash = "ca0e35a5fcdfefa38f527b2a4f2dee85feb71a7c"
 
 [update]
 [update.modrinth]
 mod-id = "mPiLAv6e"
-version = "DVG684Rj"
+version = "AuRaeDyk"

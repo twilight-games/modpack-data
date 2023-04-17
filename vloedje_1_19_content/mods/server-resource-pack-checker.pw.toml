@@ -1,13 +1,13 @@
 name = "Server Resourcepack Checker"
-filename = "resourcepackchecker-1.19.3-1.0.0.jar"
+filename = "resourcepackchecker-1.19.4-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/hPpb3pBO/resourcepackchecker-1.19.3-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/S4EUozjR/resourcepackchecker-1.19.4-1.0.1.jar"
 hash-format = "sha1"
-hash = "702559dc0065fc147c7fa2fd56043fe380b483c9"
+hash = "7060e63f064f8edd5bbca2e7e6f0290c07f8dedd"
 
 [update]
 [update.modrinth]
 mod-id = "fCpuZIcM"
-version = "hPpb3pBO"
+version = "S4EUozjR"

@@ -1,18 +1,35 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "e3d65028b237987261941fc7c18772e579e44b56a4372c889f1b9c991fefbbb7"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "949dd24e555db9b37cd7b5460cea047607132f412037b6f7d77d252d4a760991"
+
+[[files]]
 file = "mods/lithium.pw.toml"
-hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.pw.toml"
-hash = "c33d4c86ca2416368635e5cef98bf8babb019b74eb77249ceedaed81812494fd"
+hash = "36d0964d55d2a36f27b1f7232fc3cb0f6e3599d442f2b5c8735e638bf45a5cb4"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "b5a4816a0cc8896b33413593ea39993d157b17edb1920fb40c0d40656a707745"
+file = "mods/plasmo-voice.pw.toml"
+hash = "650be9279cc6a51bbb14d537a4045e74f840b6ab8c725233be6b29d68651eff3"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "4954d4d07986e32826318e2e1574797c4255d2e63cf1ee821c8855387f33a5b6"
 metafile = true
 
 [[files]]

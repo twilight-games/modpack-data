@@ -1,0 +1,13 @@
+name = "Adaptive Tooltips"
+filename = "AdaptiveTooltips-1.2.0-fabric-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/k1kB29FF/AdaptiveTooltips-1.2.0-fabric-1.19.4.jar"
+hash-format = "sha1"
+hash = "4ce4096f200ed64f777af5a07491b7914a4f4dd5"
+
+[update]
+[update.modrinth]
+mod-id = "wFv8yCxM"
+version = "k1kB29FF"
