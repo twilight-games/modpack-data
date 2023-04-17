@@ -1,0 +1,13 @@
+name = "TipTapShow"
+filename = "tiptapshow-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIQY64qr/versions/Hxk0MUkM/tiptapshow-1.2.2.jar"
+hash-format = "sha1"
+hash = "4df11197c81bf36a600a25f196e495d36866510f"
+
+[update]
+[update.modrinth]
+mod-id = "lIQY64qr"
+version = "Hxk0MUkM"
