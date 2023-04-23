@@ -1314,6 +1314,11 @@ hash = "f791a0e4ea6e09e1ffdb7dd1845b3d133e5cb57d9a351dc8ec609bc99de6ae77"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "650be9279cc6a51bbb14d537a4045e74f840b6ab8c725233be6b29d68651eff3"
 metafile = true
