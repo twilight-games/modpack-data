@@ -33,6 +33,14 @@ file = "config/lambdabettergrass.toml"
 hash = "ccacad10db3277eaf5cc36e845fadd279e253e57df17581bc4ef80e67d63dd89"
 
 [[files]]
+file = "config/litematica.json"
+hash = "96259e86ffa63619e88eb5b615538aabf245c41b0d9741a15761f4809f7b14c5"
+
+[[files]]
+file = "config/minihud.json"
+hash = "bbbe0c1e2959e1cd17ff052a9a423f6dfb9d9f6132c79863409529dd940bcd8e"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "b6dee378d9a8fd0f7f08bcc232e2ded023841b52a54a5f20d79d7062bb0b13a9"
 
@@ -1140,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
+hash = "3eb9dc5713bd1208fb710dc134c50d7bc4217c2128f4f91abe9a08a0a660c5c9"
 metafile = true
 
 [[files]]
@@ -1159,11 +1167,6 @@ hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "1d15f4c23e72403f9d3f8aea27001b13808ee5881c8b36fb9f323485193cbe97"
 metafile = true
@@ -1175,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "853f918313fcfbf519dd5b0f734fe4b71b4599b12cb574b1166741a55df5445b"
 metafile = true
 
 [[files]]
@@ -1349,6 +1352,11 @@ hash = "71827adb5fbf9210c7d4ee7dd1107c7d1cc4356ececdb7be4c773695b8d73d36"
 metafile = true
 
 [[files]]
+file = "mods/rebindable-f3.pw.toml"
+hash = "d26a45ebca53ccc9d484075c3b608723bc9f963f097ca6cddc4cecd51ad95435"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
@@ -1454,6 +1462,21 @@ hash = "bc6a172bfb63b01a00fe41e0303cfb5277db28d733f68fc53677a07c823cb454"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "13a133e7a7db9c49282b7ba2a54d85fd38531f7ac55c2ba49699d27858045e9d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "99a140246e61e21c5754c939f183b24eb4b5ef36a5f9a93350949f88cea74927"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8c8ab02eb10f0650531a9b722f47ee63d07368bae61c53cb86d2c88bed247bd5"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e2814612cc9e6af024bd0590ab0500e55595c8ed78e758515fdbfa7cb6185502"
 metafile = true
@@ -1474,7 +1497,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e7bd470918b908960a77db10cb7918c67e6c90ac5d97218d2f875dd6e4e3dda8"
+hash = "8456c3ee8501fbaec3fee6c43e5a7d7aa9a66e9f666aff21058800bc2f17ecfc"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Rebindable F3"
+filename = "RebindableF3-1.0.0+1.19.4-fabric-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fwvB15sF/versions/xbjWcr8Y/RebindableF3-1.0.0%2B1.19.4-fabric-1.19.4.jar"
+hash-format = "sha1"
+hash = "6539ca8e25d7cee4c9d0f798738adcd6f65368f7"
+
+[update]
+[update.modrinth]
+mod-id = "fwvB15sF"
+version = "xbjWcr8Y"
