@@ -1,4 +1,5 @@
 version:3337
+lang:en_gb
 autoJump:false
 advancedItemTooltips:true
 enableVsync:false
