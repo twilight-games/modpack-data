@@ -13,6 +13,10 @@ file = "config/controlify.json"
 hash = "4a76d5408a6f1512a0c6294e1452464028527a130ead0ecd8142202f9d9df20d"
 
 [[files]]
+file = "config/dashloader.json"
+hash = "fed14345aa279074d7eea2b47d3b6e9419cb7e7da03a79b27cca4a344b45f197"
+
+[[files]]
 file = "config/draggable-resource-packs.json5"
 hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
 
