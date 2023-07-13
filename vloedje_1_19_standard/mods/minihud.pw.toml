@@ -1,8 +1,0 @@
-name = "Litematica"
-filename = "minihud-fabric-1.19.4-0.26.2.jar"
-side = "both"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/4444/346/minihud-fabric-1.19.4-0.26.2.jar"
-hash-format = "sha1"
-hash = "a52eec62cbad969f0a2faa7e30e8a47a9d2392e0"

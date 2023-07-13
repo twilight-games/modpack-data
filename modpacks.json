@@ -1,21 +1,9 @@
 {
   "modpacks": [
     {
-      "id": "vloedje_1_19_standard",
-      "name": "Vloedje SMP 1.19.4 Standard",
+      "id": "vloedje_1_20_standard",
+      "name": "Vloedje SMP 1.20 Standard",
       "description": "De standaad client voor de Vloedje SMP",
-      "version": "1.0.0"
-    },
-    {
-      "id": "vloedje_1_19_lite",
-      "name": "Vloedje SMP 1.19.3 Lite",
-      "description": "De lichte client voor de Vloedje SMP",
-      "version": "1.0.0"
-    },
-    {
-      "id": "vloedje_1_19_content",
-      "name": "Vloedje SMP 1.19.4 Content Creator",
-      "description": "De standaard client met content creator functies",
       "version": "1.0.0"
     }
   ]

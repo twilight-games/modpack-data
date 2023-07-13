@@ -1,0 +1,13 @@
+name = "Wider Stats Screen"
+filename = "wider-stats-screen-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mN1daKfu/versions/UuMd87uy/wider-stats-screen-0.2.0.jar"
+hash-format = "sha1"
+hash = "d3d1f41f3569aa84fa90db01423c75d010483148"
+
+[update]
+[update.modrinth]
+mod-id = "mN1daKfu"
+version = "UuMd87uy"

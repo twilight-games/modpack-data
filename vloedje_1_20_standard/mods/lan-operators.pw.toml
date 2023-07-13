@@ -1,0 +1,13 @@
+name = "LAN Operators"
+filename = "lan-operators-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qjOfLjl2/versions/mMffkqZM/lan-operators-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "ce1c3b7fc9a8c7b7ca3edf84ca77297a97059e57"
+
+[update]
+[update.modrinth]
+mod-id = "qjOfLjl2"
+version = "mMffkqZM"

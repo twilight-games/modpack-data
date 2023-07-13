@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "DeleteWorldsToTrash-v8.0.0-1.20.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7diJQfvM/versions/39EBqKRP/DeleteWorldsToTrash-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "40b45292d12b3410bb725a541027fe2b535de889"
+
+[update]
+[update.modrinth]
+mod-id = "7diJQfvM"
+version = "39EBqKRP"

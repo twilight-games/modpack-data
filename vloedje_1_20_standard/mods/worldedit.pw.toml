@@ -1,0 +1,8 @@
+name = "WorldEdit"
+filename = "worldedit-mod-7.2.15.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4586/218/worldedit-mod-7.2.15.jar"
+hash-format = "sha1"
+hash = "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
