@@ -17,6 +17,10 @@ file = "config/dashloader.json"
 hash = "fed14345aa279074d7eea2b47d3b6e9419cb7e7da03a79b27cca4a344b45f197"
 
 [[files]]
+file = "config/debugify.json"
+hash = "7233973eadcc14d0b796e1b29c73b3b6aa42c982c82e71751bcb2682700f5292"
+
+[[files]]
 file = "config/draggable-resource-packs.json5"
 hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
 
@@ -30,7 +34,11 @@ hash = "e58a7dc70e3f955251f487076fec0bcdab8a080c21825736df5e81eac92c4a8b"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "16e020680f8af2c26668da3cb4583833affca071e18f78351ba529d426089540"
+hash = "81756a60c9846ed9764e2b31065065b9f353347d763a5b5586b510048aa9fa9d"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "ec44be42be23a22b0162c081224af1cda056160f1955c07194e5e8c4c379631f"
 
 [[files]]
 file = "config/gamma_utils.json5"
@@ -42,7 +50,7 @@ hash = "f2e8b6f416dbdc7163edc5ed7e448e13f11e8c309c21a44709a5c6818ba2499c"
 
 [[files]]
 file = "config/iris.properties"
-hash = "71326da5f1ea41a152ef58b2a4b70fcfcc1b243d056cf27e5b6cf8522c1d37f6"
+hash = "cde4725fb539af092cf987b38d17f6ee0ce8374207aa649c451c188e30d6f4e9"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
@@ -50,7 +58,7 @@ hash = "ccacad10db3277eaf5cc36e845fadd279e253e57df17581bc4ef80e67d63dd89"
 
 [[files]]
 file = "config/litematica.json"
-hash = "96259e86ffa63619e88eb5b615538aabf245c41b0d9741a15761f4809f7b14c5"
+hash = "ac835e54b6f326d4344ad36a2d512b76058150848386b339a5481e92dd51a1a9"
 
 [[files]]
 file = "config/mindfuldarkness-client.toml"
@@ -66,7 +74,15 @@ hash = "b6dee378d9a8fd0f7f08bcc232e2ded023841b52a54a5f20d79d7062bb0b13a9"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "27fb5c2123bf8b8dbc003264b0570fb2237f82a665c553ed34c86e28ccb2656c"
+hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
+
+[[files]]
+file = "config/perspektive.json"
+hash = "e376798c9fc77212ce18857d8538bd9a9535ffcf28665b7b0b930fa18702e385"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
 
 [[files]]
 file = "config/raised.json"
@@ -90,7 +106,7 @@ hash = "9508c9e1238be250c6a8b11f4f5f6bd677eab14ace75f083c8faf4bb6bc44f78"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/splasher.toml"
@@ -1068,6 +1084,11 @@ hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "33c7f61b3d555b4e44a0493b00cb48a04f7bfdb1666ddd335d0bf00f6941a4da"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
@@ -1085,6 +1106,11 @@ metafile = true
 [[files]]
 file = "mods/better-taskbar.pw.toml"
 hash = "e237b63000af68dfbba1cd8bb40ee2beef7a7b27690442518685b123e1ea5ec5"
+metafile = true
+
+[[files]]
+file = "mods/betteraddserver.pw.toml"
+hash = "b443acc95b277915756240ba71704a987ea417b368db8ffd6cb634796926b6f5"
 metafile = true
 
 [[files]]
@@ -1118,6 +1144,11 @@ hash = "ae3387e1b13eae0eb58f66c74d1ec847362c657b66ae91f17bd1d5d299292885"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
 hash = "09d1fc2972a3ac0ba5d2d4dcf1ed9b7524ed7b53de77d4b8409f591f314d8e18"
 metafile = true
@@ -1145,6 +1176,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "6f6700ec1170d64907372f36b98abf151bd47809419bcfaf619698fb76a90cd0"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "90091c16a34192c6513f053c15844b3cedb7b4fcc18fc3337176da63b00eedb1"
 metafile = true
 
 [[files]]
@@ -1188,6 +1224,11 @@ hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
@@ -1215,6 +1256,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
 
 [[files]]
@@ -1428,13 +1474,28 @@ hash = "c88a2f7d74117f46baff4961fbbdfda64ec34c21097c148f4e711e7331826b00"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "b92d03e5b36ff985318dd35a673f3ea96d382dcd25ef3dd990584f775f5f21d2"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+metafile = true
+
+[[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "6b78779f05f47c16b32262ba2b871b11792447893660e61c3626b397aad1060f"
+metafile = true
+
+[[files]]
+file = "mods/serverpingerfixer.pw.toml"
+hash = "e4fcc1fc82a41c6ab58a926cd61950c290479c8e1c8531bfebaa72eb3d899817"
 metafile = true
 
 [[files]]
@@ -1534,7 +1595,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "30f98861cac365c3411e52653134bd7dd41d7de28435ff4eef26604aef138278"
+hash = "50b7a8063c6ad4f05b2868bb1434302f902e821df38ced019c6c3aa25419dcf6"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

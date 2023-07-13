@@ -1,0 +1,13 @@
+name = "Server Pinger Fixer"
+filename = "serverpingerfixer-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iqK5uv72/versions/VSIi6KML/serverpingerfixer-1.0.1.jar"
+hash-format = "sha1"
+hash = "a6045f77005d7813b6488d30751091f1fa96b6ab"
+
+[update]
+[update.modrinth]
+mod-id = "iqK5uv72"
+version = "VSIi6KML"

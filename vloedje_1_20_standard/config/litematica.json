@@ -7,7 +7,7 @@
   },
   "Hotkeys": {
     "addSelectionBox": {
-      "keys": "M,A"
+      "keys": "O,A"
     },
     "cloneSelection": {
       "keys": ""
@@ -31,10 +31,10 @@
       "keys": ""
     },
     "layerModeNext": {
-      "keys": "M,PAGE_UP"
+      "keys": "O,PAGE_UP"
     },
     "layerModePrevious": {
-      "keys": "M,PAGE_DOWN"
+      "keys": "O,PAGE_DOWN"
     },
     "layerNext": {
       "keys": "PAGE_UP"
@@ -61,28 +61,28 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "M"
+      "keys": ""
     },
     "openGuiMaterialList": {
-      "keys": "M,L"
+      "keys": "O,L"
     },
     "openGuiPlacementSettings": {
       "keys": "KP_SUBTRACT"
     },
     "openGuiSchematicPlacements": {
-      "keys": "M,P"
+      "keys": "O,P"
     },
     "openGuiSchematicProjects": {
       "keys": ""
     },
     "openGuiSchematicVerifier": {
-      "keys": "M,V"
+      "keys": "O,V"
     },
     "openGuiSelectionManager": {
-      "keys": "M,S"
+      "keys": "O,S"
     },
     "openGuiSettings": {
-      "keys": "M,C"
+      "keys": "O,C"
     },
     "operationModeChangeModifier": {
       "keys": "LEFT_CONTROL"
@@ -94,7 +94,7 @@
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "M,BUTTON_3"
+      "keys": "O,BUTTON_3"
     },
     "renderInfoOverlay": {
       "keys": "I"
@@ -103,7 +103,7 @@
       "keys": "RIGHT_CONTROL"
     },
     "rerenderSchematic": {
-      "keys": "F3,M"
+      "keys": "F3,O"
     },
     "saveAreaAsInMemorySchematic": {
       "keys": ""
@@ -193,7 +193,7 @@
       "keys": ""
     },
     "toggleSchematicRendering": {
-      "keys": "M,G"
+      "keys": "O,G"
     },
     "toggleTranslucentRendering": {
       "keys": ""
@@ -202,7 +202,7 @@
       "keys": ""
     },
     "toolEnabledToggle": {
-      "keys": "M,T"
+      "keys": "O,T"
     },
     "toolPlaceCorner1": {
       "keys": "BUTTON_1"
