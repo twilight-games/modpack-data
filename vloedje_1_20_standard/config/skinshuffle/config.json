@@ -6,7 +6,7 @@
     "MOJANG",
     "OPTIFINE"
   ],
-  "displayInPauseMenu": true,
+  "displayInPauseMenu": false,
   "displayInTitleScreen": true,
   "carouselScrollSensitivity": 1.0,
   "invertCarouselScroll": false,
