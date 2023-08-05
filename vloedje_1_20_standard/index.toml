@@ -1339,6 +1339,11 @@ hash = "27eb2a19aec099a40682db409e1dcecd8b5d3300e09b70a15d03b9b2c3e7e495"
 metafile = true
 
 [[files]]
+file = "mods/infinite-banner-patterns.pw.toml"
+hash = "2c3770aef3857db272e27c5692d9d9fd9c9ec3b6722c373cd02d90d29184589e"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
 metafile = true
