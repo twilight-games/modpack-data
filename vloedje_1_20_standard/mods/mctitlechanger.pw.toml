@@ -1,0 +1,13 @@
+name = "TitleChanger"
+filename = "TitleChanger-1.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rk1yyL71/versions/3l5rGto7/TitleChanger-1.10.jar"
+hash-format = "sha1"
+hash = "b0f83f4bc3f7537e3d8416da2494d709b2f41ff8"
+
+[update]
+[update.modrinth]
+mod-id = "rk1yyL71"
+version = "3l5rGto7"

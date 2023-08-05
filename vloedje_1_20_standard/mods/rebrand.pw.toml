@@ -1,0 +1,13 @@
+name = "Rebrand"
+filename = "rebrand-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LNRzhrCZ/versions/jvkr7QkB/rebrand-1.1.1.jar"
+hash-format = "sha1"
+hash = "6eb45e7ade0b947756f71bc1a99b53287ac099da"
+
+[update]
+[update.modrinth]
+mod-id = "LNRzhrCZ"
+version = "jvkr7QkB"

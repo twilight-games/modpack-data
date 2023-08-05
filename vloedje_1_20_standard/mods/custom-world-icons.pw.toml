@@ -1,0 +1,13 @@
+name = "Custom World Icons"
+filename = "customworldicons-1.1.0-1.20.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WqSVoCV7/versions/opEiKFTn/customworldicons-1.1.0-1.20.x.jar"
+hash-format = "sha1"
+hash = "90ddce84f295bda2da0414a1ee1b7240ef019037"
+
+[update]
+[update.modrinth]
+mod-id = "WqSVoCV7"
+version = "opEiKFTn"

@@ -1,0 +1,78 @@
+{
+	// Should we change the title?
+	"ChangeTitle": true,
+	// This is the window title,you can change it.
+	"Title": "Vloedje SMP %mcversion%",
+	/* Should window icon be changed?
+	   REMEMBER! You must place 'icon_16x16.png' in the 'icons' folder at least!
+	   Supported icon sizes:
+	   16x16, 32x32, 48x48, 128x128, 256x256
+	*/
+	"ChangeIcons": false,
+	"variable": {
+		// %date% and %syncdate% placeholders' format.
+		"Dateformat": "yyyy-MM-dd HH:mm:ss",
+		/* %memory% display format.
+		   '!using' is the game using memory.
+		   '!max' is the memory allocated to the game.
+		   '!free' is the memory that the game hasn't used yet.
+		*/
+		"MemoryFormat": "!using MB/!max MB",
+		/* %location% display format.
+		   !x is player's X axis.!y is player's Y axis.!z is player's Z axis.
+		*/
+		"LocationFromat": "!x !y !z",
+		/* Set the minimum number of random number that can be generated.
+		   Suitable for variable %random%. Note: the range cannot be less than 2.
+		*/
+		"randomMin": 2,
+		/* Set the maximum number of random number that can be generated.
+		   Suitable for variable %random%. Note: the range cannot be less than 2.
+		*/
+		"randomMax": 100
+	},
+	"text": {
+		/* You can write some game tips or famous quotes here.
+		   When using variables, a sentence will be selected for display.
+		   Note: if it is empty,%sentence% variable will be disabled.
+		*/
+		"Sentences": [],
+		/* If this is enabled,mod will get sentence from Hitokoto.
+		   But you can't get sentence from sentences list.
+		   Tip: Hitokoto is a website that provides good Chinese sentences.
+		*/
+		"getSentenceFromHitokoto": false,
+		/* Should we change the splash text?
+		   You can add splash texts in splash.txt.
+		*/
+		"SplashText": false
+	},
+	"modpack": {
+		// Used for quick reference to Modpack name.
+		"modpackName": "",
+		// Used for quick reference to Modpack version.
+		"modpackVersion": "",
+		// Used for quick reference to Modpack authors.
+		"modpackAuthors": []
+	},
+	"font": {
+		/* Should we change the font?
+		   You should put one .ttf file in 'fonts' folder at least!
+		   Note: Font cannot be overloaded, so you can only restart the client to apply the modifications.
+		*/
+		"changeFont": false,
+		/* The font you want to replace.
+		   REMEMBER! It must be a .ttf file.
+		*/
+		"fontFile": "",
+		// Set font size.
+		"fontSize": 10.0,
+		// Set font oversample.
+		"oversample": 4.0,
+		// Set font shift X and Y
+		"shift": [
+			0,
+			0
+		]
+	}
+}

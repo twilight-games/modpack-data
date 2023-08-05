@@ -76,7 +76,7 @@ lightOverlayMinLight:0
 lightOverlayColor:13
 uiScale:0
 bossHealthPushBox:0
-potionEffectPushBox:0
+potionEffectPushBox:1
 minimapFrame:0
 minimapFrameColor:9
 compassColor:9
