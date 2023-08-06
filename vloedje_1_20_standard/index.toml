@@ -1380,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "3e1e1e3f2d444c1fde1b507a0a642e0404df9784d1d3b990a5b3bdc1843fe232"
+hash = "4085a6f833eb27091ffe2e09cd95e577bb1be8c4c8b2143ba3924ecd61a2fffe"
 metafile = true
 
 [[files]]
