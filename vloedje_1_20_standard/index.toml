@@ -86,7 +86,7 @@ hash = "e376798c9fc77212ce18857d8538bd9a9535ffcf28665b7b0b930fa18702e385"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
+hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
 
 [[files]]
 file = "config/raised.json"
@@ -1334,6 +1334,11 @@ hash = "d33f01502da3fe555c3da1c15d2168fb96060e42427661aa0620c877a2554ae5"
 metafile = true
 
 [[files]]
+file = "mods/improved-fire-overlay.pw.toml"
+hash = "47ec14c1d47213f7cb7c4177cd319267917bb1a09290a7f58d70060076345fc1"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
 metafile = true
@@ -1591,11 +1596,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
-metafile = true
-
-[[files]]
-file = "mods/soul-fire-d.pw.toml"
-hash = "9ee1234f55c72ec4e7f7d2dcb6982812412770e18fd4780e8ee216e3ce4b3bdf"
 metafile = true
 
 [[files]]
