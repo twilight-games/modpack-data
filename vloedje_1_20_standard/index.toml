@@ -74,7 +74,7 @@ hash = "bbbe0c1e2959e1cd17ff052a9a423f6dfb9d9f6132c79863409529dd940bcd8e"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "94815023cd0552b85cb2cb3b2b0f5d86d60bd49ab9ea9d7f98f0b22cceed5163"
+hash = "aebc7548ed7caffe18103f6db1832ec353411d944c01ee3d963155811706ce5a"
 
 [[files]]
 file = "config/moreculling.toml"
