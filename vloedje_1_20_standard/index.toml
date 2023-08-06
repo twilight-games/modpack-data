@@ -114,7 +114,7 @@ hash = "949dd24e555db9b37cd7b5460cea047607132f412037b6f7d77d252d4a760991"
 
 [[files]]
 file = "config/skinshuffle/config.json"
-hash = "e79f7c3fca760ab3584006b37975250a5cf42bf388649640fe164b39b32d5d7d"
+hash = "84897a9ddf035f5d820b5f129f64ea77e3779a67093906372908967bff93e071"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -1270,7 +1270,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49a42a2456b0d0024bb61afdfeb279c51d581901fbd59a4d00ff772b206fefaa"
+hash = "b7c74a69eba0d7235dce4a31ac939f9c1a5ff09264977311af16d8580ae93ad1"
 metafile = true
 
 [[files]]
@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
+hash = "894d979ff26d8c7ee75d47a318f41873974a25f232c323980c0a82fa5999e93a"
 metafile = true
 
 [[files]]
@@ -1446,6 +1446,16 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
+file = "mods/morecullingextra.pw.toml"
+hash = "195c57beb3db8380c6ffe13851490be377844ce96cbd142ae96625650b4badb3"
 metafile = true
 
 [[files]]
