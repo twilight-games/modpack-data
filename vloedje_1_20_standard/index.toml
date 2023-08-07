@@ -74,11 +74,15 @@ hash = "bbbe0c1e2959e1cd17ff052a9a423f6dfb9d9f6132c79863409529dd940bcd8e"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "aebc7548ed7caffe18103f6db1832ec353411d944c01ee3d963155811706ce5a"
+hash = "12cd877351b573ac75cb859e0053ce21a7690cc0564f50fa20c3727a2633ee36"
 
 [[files]]
 file = "config/moreculling.toml"
 hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
+
+[[files]]
+file = "config/oscimate_soulflame.json"
+hash = "405baed113f8589a4e17951d94715b0fdc5f6d2feb15b16f4be09814ba4d3d32"
 
 [[files]]
 file = "config/perspektive.json"
@@ -1114,6 +1118,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/arikeys.pw.toml"
+hash = "4ddbe38c497a472645bc36cf9d9938b11a88120c8b3cac4fcb1540664b0deba3"
+metafile = true
+
+[[files]]
 file = "mods/beer.pw.toml"
 hash = "f5470f442414284f09bf3a39a30c19afaeccb28a8fa30cf33b8a9ee22319b74d"
 metafile = true
@@ -1385,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "4085a6f833eb27091ffe2e09cd95e577bb1be8c4c8b2143ba3924ecd61a2fffe"
+hash = "977b2162a12c8a80fd13ef6acefb5018b504c53fdf790a4b9eb14c7646262022"
 metafile = true
 
 [[files]]
@@ -1685,7 +1694,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "060e75568f5ed015ccdcc973c6498503c9b712ebea4defac5fce3afdb5842fcf"
+hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
 metafile = true
 
 [[files]]
