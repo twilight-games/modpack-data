@@ -1133,6 +1133,11 @@ hash = "94b3367391063c77435e87fbf38cf934e35992fd36123a7bc65ce329234ae27a"
 metafile = true
 
 [[files]]
+file = "mods/better-saved-hotbars.pw.toml"
+hash = "87dc9ec6bcc2f08c0cfd4528e2ffb756fa0ffc6ae319fe0d20a9a3eaa9635e6f"
+metafile = true
+
+[[files]]
 file = "mods/better-taskbar.pw.toml"
 hash = "e237b63000af68dfbba1cd8bb40ee2beef7a7b27690442518685b123e1ea5ec5"
 metafile = true
@@ -1204,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
+hash = "cd722b57ac86dee08528df084c70260ba77636e7bd1a2be1109c29577e2c4562"
 metafile = true
 
 [[files]]
@@ -1244,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-lists.pw.toml"
-hash = "6def5f269d3f69656592f78adceb1b4c94047e68f3a332b95a51ac78d35c3e75"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
 
 [[files]]
@@ -1254,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
+hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
 metafile = true
 
 [[files]]
@@ -1663,11 +1668,6 @@ hash = "d516609512f43f65777600e5ef45dacedd6b1c8bc5311b757b6c342999f1d8d5"
 metafile = true
 
 [[files]]
-file = "mods/watson.pw.toml"
-hash = "0a38352d7556545084b9b83e1b0a1e2b4206f5e6bb39ae4dbb3d653153c55df7"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
 metafile = true
@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "50b7a8063c6ad4f05b2868bb1434302f902e821df38ced019c6c3aa25419dcf6"
+hash = "1d2f43ef6a3f2651fc9245884df72a23affca2bba3ad30d6bb4a84497ec84249"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
