@@ -1,0 +1,13 @@
+name = "RandomBlockPlacement"
+filename = "randomblockplacement-1.20-fabric0.83.0-1.1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/djlwpkGP/versions/hnfB0OfV/randomblockplacement-1.20-fabric0.83.0-1.1.4.jar"
+hash-format = "sha1"
+hash = "74b83628620c9b27417ad7ca1ed6abf569d5853e"
+
+[update]
+[update.modrinth]
+mod-id = "djlwpkGP"
+version = "hnfB0OfV"

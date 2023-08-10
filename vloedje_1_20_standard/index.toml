@@ -1098,6 +1098,10 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
+file = "mods/Axiom-b0.97-for-MC1.20.1.jar"
+hash = "a6ddd51fc9c75fe4f57b18f736692654de0af2a1356a1fede70cd044e7565fb4"
+
+[[files]]
 file = "mods/advancement-screenshot.pw.toml"
 hash = "4519c8d3290ddd1555ec954ca67f151ecd24bcbd5dbc545a32effa93d1af2ff8"
 metafile = true
@@ -1115,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/arikeys.pw.toml"
 hash = "4ddbe38c497a472645bc36cf9d9938b11a88120c8b3cac4fcb1540664b0deba3"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "69d694b1afa65fd2979ba72b32e5fd8ca44a67d5cf63dcb4a12149c6bed870d2"
 metafile = true
 
 [[files]]
@@ -1443,6 +1452,11 @@ hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
@@ -1520,6 +1534,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
+metafile = true
+
+[[files]]
+file = "mods/randomblockplacement.pw.toml"
+hash = "06ad4c69b09ad31e7ba04a9cb9b103be252d0f3ef3e6d84a2c91f9ef71d483ca"
 metafile = true
 
 [[files]]
