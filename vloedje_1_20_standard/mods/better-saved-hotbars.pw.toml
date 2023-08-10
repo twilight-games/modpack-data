@@ -1,13 +1,13 @@
 name = "Better Saved Hotbars"
-filename = "BetterSavedHorbars-1.1.1.jar"
+filename = "BetterSavedHorbars-1.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y5DGNK4o/versions/JIsOhBzR/BetterSavedHorbars-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/Y5DGNK4o/versions/ADCftctL/BetterSavedHorbars-1.1.2.jar"
 hash-format = "sha1"
-hash = "0563a9611f7d2ad94379b7358a5e0db6da9c48c7"
+hash = "3db4fa27b82280b23aad9aaf031c04859c91d5ce"
 
 [update]
 [update.modrinth]
 mod-id = "Y5DGNK4o"
-version = "JIsOhBzR"
+version = "ADCftctL"

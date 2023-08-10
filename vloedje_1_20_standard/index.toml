@@ -1113,11 +1113,6 @@ hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
-metafile = true
-
-[[files]]
 file = "mods/arikeys.pw.toml"
 hash = "4ddbe38c497a472645bc36cf9d9938b11a88120c8b3cac4fcb1540664b0deba3"
 metafile = true
@@ -1128,13 +1123,8 @@ hash = "f5470f442414284f09bf3a39a30c19afaeccb28a8fa30cf33b8a9ee22319b74d"
 metafile = true
 
 [[files]]
-file = "mods/better-resource-pack-sorting.pw.toml"
-hash = "94b3367391063c77435e87fbf38cf934e35992fd36123a7bc65ce329234ae27a"
-metafile = true
-
-[[files]]
 file = "mods/better-saved-hotbars.pw.toml"
-hash = "87dc9ec6bcc2f08c0cfd4528e2ffb756fa0ffc6ae319fe0d20a9a3eaa9635e6f"
+hash = "a883208773831802ed49517f50718f639d0ae56502e997e57b6ec376b65d93de"
 metafile = true
 
 [[files]]
@@ -1154,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
+hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
 metafile = true
 
 [[files]]
@@ -1245,11 +1235,6 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "10b51186969ddc45fe02947537eb1c09d56eeade2999b7bbf96e5b27d69fdf6b"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
 
 [[files]]
@@ -1524,7 +1509,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
+metafile = true
+
+[[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
 
 [[files]]
@@ -1545,6 +1535,11 @@ metafile = true
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "7faa90dc5e141d7a00a2415630474f26b717b4511da9a5ea6bcf5e8803fc7165"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-tweaks.pw.toml"
+hash = "6713877e41461792eb4340ac0db93f4d95468c3ca0b60f622dbd9d83bbad7449"
 metafile = true
 
 [[files]]
@@ -1573,11 +1568,6 @@ hash = "3d36cc9f465711f719624bee906860b36e84e69d92eb9a5d51021a5c8bb5bac0"
 metafile = true
 
 [[files]]
-file = "mods/seamless.pw.toml"
-hash = "c2eacf7d940b85f3fc750a206f184f30086ab4b1e0ec3e5db354d1564acaa78e"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
 metafile = true
@@ -1600,11 +1590,6 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
-metafile = true
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "18526608ce284aa1d26e50497dc593d08eb06e2aece0a8ef4d048762b83b7cf2"
 metafile = true
 
 [[files]]
@@ -1649,7 +1634,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "adcc3a873b6e2df8fae283797f15a859a1c389b1fb2cf24fd6525dbb6a3b4792"
+hash = "8fb8d459a491b6c2680f427f9dba7d39fd1c06a8cc4bcb0e1ae02c6a43331256"
 metafile = true
 
 [[files]]

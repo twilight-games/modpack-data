@@ -1,0 +1,8 @@
+name = "Axiom"
+filename = "Axiom-b0.97-for-MC1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://axiom.moulberry.com/api/downloads/Axiom-b0.97-for-MC1.20.1.jar"
+hash-format = "sha1"
+hash = "c798562a902c7f23abf7ccdad5be90d78f921111"
