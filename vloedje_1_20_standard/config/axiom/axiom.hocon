@@ -1,0 +1,17 @@
+# Axiom Configuration
+
+# Capabilities modify the way the player moves and interacts with the world
+capabilities {
+    # More precise flight - no momentum and move in the direction of the camera
+    airplane=false
+    # Hold down left-click to break blocks very fast
+    bulldozer=false
+    # Bypass block placement restrictions
+    forcePlace=false
+    # Prevent triggering neighbor updates when placing/breaking
+    noUpdates=false
+    # Right-click blocks to replace them with the held block
+    replaceMode=false
+    # Various useful interactions when right-clicking with your fist
+    tinker=false
+}

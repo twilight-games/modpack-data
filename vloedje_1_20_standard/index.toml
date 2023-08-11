@@ -5,6 +5,10 @@ file = "config/TitleChanger/config.json5"
 hash = "6f840b05586d311cb1d811799b0deb58f6da6e74d25d19b365585a74ebde0b1e"
 
 [[files]]
+file = "config/axiom/axiom.hocon"
+hash = "f2d76ca15ba1bf48c4e62d6063c1fd062c7811212fa2139b9e3fb1b94558509d"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "058a3e450b7da9707eca1ec29f8e82ae37ca398fe2672ed1b55ef53c9f611da1"
 
@@ -14,7 +18,7 @@ hash = "519f2cc77c0745d65c98be97ce35905dea42ee0ab5d362697efced4ecc484c22"
 
 [[files]]
 file = "config/controlify.json"
-hash = "4a76d5408a6f1512a0c6294e1452464028527a130ead0ecd8142202f9d9df20d"
+hash = "e9ea7b35b18d0b65044a21703c134302938c584dcee6e35ba37564f211715c7a"
 
 [[files]]
 file = "config/dashloader.json"
@@ -39,6 +43,10 @@ hash = "e58a7dc70e3f955251f487076fec0bcdab8a080c21825736df5e81eac92c4a8b"
 [[files]]
 file = "config/entity_texture_features.json"
 hash = "81756a60c9846ed9764e2b31065065b9f353347d763a5b5586b510048aa9fa9d"
+
+[[files]]
+file = "config/exordium.json"
+hash = "a7654d08b4b99e52c1b850ed875b700eee77e26861981dc1597fc8a0012e54c5"
 
 [[files]]
 file = "config/fastquit.toml"
@@ -74,7 +82,7 @@ hash = "bbbe0c1e2959e1cd17ff052a9a423f6dfb9d9f6132c79863409529dd940bcd8e"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "12cd877351b573ac75cb859e0053ce21a7690cc0564f50fa20c3727a2633ee36"
+hash = "51d254086bd4d923f141446349d6bb4c06929ff04c81e42589159afbf2fd43e4"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -1312,6 +1320,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/fluidvoidfading.pw.toml"
+hash = "5020516ef939baa9a59f10dd204395ab78a7463b229f71ba560189354d4db554"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -1338,7 +1351,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
+hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
 metafile = true
 
 [[files]]
@@ -1373,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "79b5821cecd73ba5167a6b152c78df308b1208e9f2c27885a6bde69910b1310f"
+hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
 
 [[files]]
@@ -1513,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
+hash = "e91ac961594edfe28429695320aa5086f46589b1e9c8049d3e31aeb443491d07"
 metafile = true
 
 [[files]]
@@ -1653,7 +1666,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "8fb8d459a491b6c2680f427f9dba7d39fd1c06a8cc4bcb0e1ae02c6a43331256"
+hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
 metafile = true
 
 [[files]]
@@ -1708,7 +1721,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1d2f43ef6a3f2651fc9245884df72a23affca2bba3ad30d6bb4a84497ec84249"
+hash = "12896c49936b69c66108bfb5493e58341828910b6e1b56ae8c908571dbf808a0"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
