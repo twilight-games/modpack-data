@@ -1,0 +1,13 @@
+name = "Sound Controller"
+filename = "soundcontroller-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uY9zbflw/versions/nxI8wZmB/soundcontroller-0.1.0.jar"
+hash-format = "sha1"
+hash = "8c5b625cf09d5e9b0278825f5364c79176369e28"
+
+[update]
+[update.modrinth]
+mod-id = "uY9zbflw"
+version = "nxI8wZmB"

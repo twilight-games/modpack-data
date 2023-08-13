@@ -16,7 +16,7 @@
       "keys": ""
     },
     "easyPlaceUseKey": {
-      "keys": "BUTTON_2"
+      "keys": ""
     },
     "easyPlaceToggle": {
       "keys": ""
@@ -55,7 +55,7 @@
       "keys": ""
     },
     "openGuiAreaSettings": {
-      "keys": "KP_MULTIPLY"
+      "keys": ""
     },
     "openGuiLoadedSchematics": {
       "keys": ""
@@ -67,7 +67,7 @@
       "keys": "O,L"
     },
     "openGuiPlacementSettings": {
-      "keys": "KP_SUBTRACT"
+      "keys": ""
     },
     "openGuiSchematicPlacements": {
       "keys": "O,P"
@@ -85,22 +85,22 @@
       "keys": "O,C"
     },
     "operationModeChangeModifier": {
-      "keys": "LEFT_CONTROL"
+      "keys": ""
     },
     "pickBlockFirst": {
-      "keys": "BUTTON_3"
+      "keys": ""
     },
     "pickBlockLast": {
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "O,BUTTON_3"
+      "keys": ""
     },
     "renderInfoOverlay": {
-      "keys": "I"
+      "keys": ""
     },
     "renderOverlayThroughBlocks": {
-      "keys": "RIGHT_CONTROL"
+      "keys": ""
     },
     "rerenderSchematic": {
       "keys": "F3,O"
@@ -109,7 +109,7 @@
       "keys": ""
     },
     "saveAreaAsSchematicToFile": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,S"
+      "keys": ""
     },
     "schematicEditBreakPlaceAll": {
       "keys": ""
@@ -148,10 +148,10 @@
       "keys": ""
     },
     "selectionNudgeModifier": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "selectionModeCycle": {
-      "keys": "LEFT_CONTROL,M"
+      "keys": ""
     },
     "selectionShrink": {
       "keys": ""
@@ -166,7 +166,7 @@
       "keys": ""
     },
     "toggleAllRendering": {
-      "keys": "M,R"
+      "keys": ""
     },
     "toggleAreaSelectionBoxesRendering": {
       "keys": ""
@@ -205,19 +205,19 @@
       "keys": "O,T"
     },
     "toolPlaceCorner1": {
-      "keys": "BUTTON_1"
+      "keys": ""
     },
     "toolPlaceCorner2": {
-      "keys": "BUTTON_2"
+      "keys": ""
     },
     "toolSelectElements": {
-      "keys": "BUTTON_3"
+      "keys": ""
     },
     "toolSelectModifierBlock1": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "toolSelectModifierBlock2": {
-      "keys": "LEFT_SHIFT"
+      "keys": ""
     },
     "unloadCurrentSchematic": {
       "keys": ""

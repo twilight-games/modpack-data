@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cherishedworlds-favorites.dat"
+hash = "5bb46fe1e09dd435543f356ba5f68637063159a27df27a156cb4080f6c6228de"
+
+[[files]]
 file = "config/TitleChanger/config.json5"
 hash = "6f840b05586d311cb1d811799b0deb58f6da6e74d25d19b365585a74ebde0b1e"
 
@@ -18,7 +22,7 @@ hash = "519f2cc77c0745d65c98be97ce35905dea42ee0ab5d362697efced4ecc484c22"
 
 [[files]]
 file = "config/controlify.json"
-hash = "e9ea7b35b18d0b65044a21703c134302938c584dcee6e35ba37564f211715c7a"
+hash = "c93fc0569bcd605fcd7768f0a452dd4aac6e4c24c6ae4e6c2c14efacf97c6590"
 
 [[files]]
 file = "config/dashloader.json"
@@ -27,6 +31,10 @@ hash = "fed14345aa279074d7eea2b47d3b6e9419cb7e7da03a79b27cca4a344b45f197"
 [[files]]
 file = "config/debugify.json"
 hash = "7233973eadcc14d0b796e1b29c73b3b6aa42c982c82e71751bcb2682700f5292"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "283afb45217625efb8d9dcc637186a425b290c82b35362d4bda03cb066eb02f2"
 
 [[files]]
 file = "config/draggable-resource-packs.json5"
@@ -69,20 +77,24 @@ file = "config/isxander-main-menu-credits.json"
 hash = "51cf0e08a41d9f93bf986eef2fd81665197ceb1a66dcb707be93f83ad1e323bf"
 
 [[files]]
+file = "config/keybind_profiles.json"
+hash = "709cd9cc839c671f3834032d093946dc8a459a98f7dd2d00dc3e2b564b3ffb74"
+
+[[files]]
 file = "config/lambdabettergrass.toml"
 hash = "ccacad10db3277eaf5cc36e845fadd279e253e57df17581bc4ef80e67d63dd89"
 
 [[files]]
 file = "config/litematica.json"
-hash = "ba3a508d8613d0800545e67082644aa5ae64342db641c668c8a9b6c1ec14dbab"
+hash = "fb5ac2432ceabf16edc45c88f13c1b44b981baa8685a7442b4d486f46fb8516a"
 
 [[files]]
 file = "config/minihud.json"
-hash = "bbbe0c1e2959e1cd17ff052a9a423f6dfb9d9f6132c79863409529dd940bcd8e"
+hash = "9f549b9a21d8c63c39a9c30a186cff48417de9db3ac004885b7e3c24573277bd"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "51d254086bd4d923f141446349d6bb4c06929ff04c81e42589159afbf2fd43e4"
+hash = "1a7279dca7c5fd5666c1ef69141b77f7ed1c3ea8057504cb9836c6503ac74b80"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -95,6 +107,10 @@ hash = "405baed113f8589a4e17951d94715b0fdc5f6d2feb15b16f4be09814ba4d3d32"
 [[files]]
 file = "config/perspektive.json"
 hash = "e376798c9fc77212ce18857d8538bd9a9535ffcf28665b7b0b930fa18702e385"
+
+[[files]]
+file = "config/plasmovoice/client.toml"
+hash = "49299e997d7b3b1dc494228f20dfd699c42ce45d28c4457828227fb08141ff9f"
 
 [[files]]
 file = "config/puzzle.json"
@@ -1106,10 +1122,6 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
-file = "mods/Axiom-b0.97-for-MC1.20.1.jar"
-hash = "a6ddd51fc9c75fe4f57b18f736692654de0af2a1356a1fede70cd044e7565fb4"
-
-[[files]]
 file = "mods/advancement-screenshot.pw.toml"
 hash = "4519c8d3290ddd1555ec954ca67f151ecd24bcbd5dbc545a32effa93d1af2ff8"
 metafile = true
@@ -1125,18 +1137,28 @@ hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/arikeys.pw.toml"
 hash = "4ddbe38c497a472645bc36cf9d9938b11a88120c8b3cac4fcb1540664b0deba3"
 metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "69d694b1afa65fd2979ba72b32e5fd8ca44a67d5cf63dcb4a12149c6bed870d2"
+hash = "8c4c508d7b302b8d7798aea36c9b462c54e4a09058c70b5df2088fc96137363e"
 metafile = true
 
 [[files]]
 file = "mods/beer.pw.toml"
 hash = "f5470f442414284f09bf3a39a30c19afaeccb28a8fa30cf33b8a9ee22319b74d"
+metafile = true
+
+[[files]]
+file = "mods/better-resource-pack-sorting.pw.toml"
+hash = "94b3367391063c77435e87fbf38cf934e35992fd36123a7bc65ce329234ae27a"
 metafile = true
 
 [[files]]
@@ -1216,7 +1238,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cd722b57ac86dee08528df084c70260ba77636e7bd1a2be1109c29577e2c4562"
+hash = "8852812ef007ff8afcfbd949533f2124f0aaee4cbb068ce8202217614aebea58"
 metafile = true
 
 [[files]]
@@ -1227,6 +1249,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
+file = "mods/custom-fov-illusive.pw.toml"
+hash = "8cd55620e4f67570d9021dcf149adfddd337b851b9d7cff2c9fb720daf8b1b72"
 metafile = true
 
 [[files]]
@@ -1252,6 +1279,16 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "10b51186969ddc45fe02947537eb1c09d56eeade2999b7bbf96e5b27d69fdf6b"
+metafile = true
+
+[[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "d3d1216084b7fc191b619aafb11c550d4ff07fb5ff0e619e46ceb1a0677b9147"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
 
 [[files]]
@@ -1380,6 +1417,11 @@ hash = "f621970bee82a10be3637e298ac879efed5f28c33b56bc70a4eb9cb854c97d75"
 metafile = true
 
 [[files]]
+file = "mods/keybind-profiles.pw.toml"
+hash = "25052d4d8d00486aa5c7a1ca688a9fea826ac4fd82a06cb36b0e8c3b7e6f2652"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -1436,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "40174cb777a6d12ba73a4caa5bbf961fc89785413bb78369101624c635b4c378"
+hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
 metafile = true
 
 [[files]]
@@ -1526,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e91ac961594edfe28429695320aa5086f46589b1e9c8049d3e31aeb443491d07"
+hash = "5e0ef8a35be1085615a978d3a4863960496a269a1f4bb955a403e8bf3a215571"
 metafile = true
 
 [[files]]
@@ -1600,6 +1642,11 @@ hash = "3d36cc9f465711f719624bee906860b36e84e69d92eb9a5d51021a5c8bb5bac0"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "c2eacf7d940b85f3fc750a206f184f30086ab4b1e0ec3e5db354d1564acaa78e"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
 metafile = true
@@ -1635,6 +1682,11 @@ hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
 metafile = true
 
 [[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "7f4396f6dfddbf2d0b0ee89d282994500c38859b4e67145588bc2ebf0ee4bd05"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
@@ -1646,7 +1698,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "16275ed48ad0c9e96cd31991242747d4850ef687f25b1744e44b14954c9d3c72"
+hash = "daeec6e32a564883d796749c66e372463b2ecadf45d95e7b05f4e984cda80d91"
 metafile = true
 
 [[files]]
@@ -1721,7 +1773,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "12896c49936b69c66108bfb5493e58341828910b6e1b56ae8c908571dbf808a0"
+hash = "c6a9d6295c02b07c5fdbcfedcf62fef51bf4977501375e48482177ae1b4d63f0"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
@@ -1731,6 +1783,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "9613534f2f3d55a32d6d9acb5cb598585d815afb65322a62f14b495f8ab978e0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/high-contrast-extended.pw.toml"
+hash = "774a0b0441ede671792d8ac258beed59f9767727a62ba9a853f56736f8feb249"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "fd69795065aab95d4a0bb311b20377956a2394a7f3d73a2fc46226ca22229678"
 metafile = true
 
 [[files]]

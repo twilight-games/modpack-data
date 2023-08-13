@@ -1,0 +1,9 @@
+debug = false
+disable_crowdin = false
+check_for_updates = false
+
+[[key_bindings]]
+keys = []
+name = "key.plasmovoice.general.mute_microphone"
+any_context = false
+category = "key.plasmovoice.general"

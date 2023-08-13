@@ -1,0 +1,902 @@
+{
+  "profiles": [
+    {
+      "keyBinds": {
+        "axiom.keybind.toggle_force_place_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_minimap_settings": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_left_pants_leg": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.chat.down": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_zoom_in": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_cape": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "iris.keybind.shaderPackSelection": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.togglePerspective": {
+          "key": "key.keyboard.f5",
+          "modifiers": "0,0,0"
+        },
+        "key.lighty.toggle": {
+          "key": "key.keyboard.f8",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_bulldozer_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_reverse_entity_radar": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.left": {
+          "key": "key.keyboard.a",
+          "modifiers": "0,0,0"
+        },
+        "Freelook": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_jacket": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.lighty.enable": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.emotecraft.fastchoose": {
+          "key": "key.keyboard.b",
+          "modifiers": "0,0,0"
+        },
+        "key.attack": {
+          "key": "key.mouse.left",
+          "modifiers": "0,0,0"
+        },
+        "key.use": {
+          "key": "key.mouse.right",
+          "modifiers": "0,0,0"
+        },
+        "key.loadToolbarActivator": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.max_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.forward": {
+          "key": "key.keyboard.w",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.hud.down": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.back": {
+          "key": "key.keyboard.s",
+          "modifiers": "0,0,0"
+        },
+        "key.inventory": {
+          "key": "key.keyboard.e",
+          "modifiers": "0,0,0"
+        },
+        "key.drop": {
+          "key": "key.keyboard.q",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.builder_tool_slot": {
+          "key": "key.keyboard.0",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_pac_players": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.modmenu.open_menu": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.alternative_escape": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_no_updates_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_hat": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_display_all_sets": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.plasmovoice.settings": {
+          "key": "key.keyboard.v",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_waypoints_key": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_entity_radar": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "iris.keybind.reload": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_pac_chunk_claims": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_map_zoom_in": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_switch_waypoint_set": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.advancements": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.fabricskyboxes.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.forlinsmod.reloadConfig": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.decrease_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.swapOffhand": {
+          "key": "key.keyboard.f",
+          "modifiers": "0,0,0"
+        },
+        "key.saveToolbarActivator": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.jump": {
+          "key": "key.keyboard.space",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.increase_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.playerlist": {
+          "key": "key.keyboard.tab",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.min_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_manual_cave_mode": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_zoom_out": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_instant_waypoint": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.sneak": {
+          "key": "key.keyboard.left.shift",
+          "modifiers": "0,0,0"
+        },
+        "key.sprint": {
+          "key": "key.keyboard.left.control",
+          "modifiers": "0,0,0"
+        },
+        "key.emotecraft.stop": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_map_zoom_out": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_waypoints": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.tiptapshow.openconfig": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_editor_ui": {
+          "key": "key.keyboard.right.shift",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_replace_mode_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_tinker_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.tiptapshow.toggleoverlay": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_new_waypoint": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_light_overlay": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.chat": {
+          "key": "key.keyboard.t",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.hud.up": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_map_waypoints": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.orbit_camera": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_map": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_right_pants_leg": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.fullscreen": {
+          "key": "key.keyboard.f11",
+          "modifiers": "0,0,0"
+        },
+        "key.randomblockplacement.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.smoothCamera": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.logical_zoom.zoom": {
+          "key": "key.keyboard.c",
+          "modifiers": "0,0,0"
+        },
+        "iris.keybind.toggleShaders": {
+          "key": "key.keyboard.k",
+          "modifiers": "0,0,0"
+        },
+        "key.command": {
+          "key": "key.keyboard.slash",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.context": {
+          "key": "key.keyboard.left.alt",
+          "modifiers": "0,0,0"
+        },
+        "Toggle Freelook": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.8": {
+          "key": "key.keyboard.8",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.7": {
+          "key": "key.keyboard.7",
+          "modifiers": "0,0,0"
+        },
+        "key.dynamicfps.toggle_disabled": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.6": {
+          "key": "key.keyboard.6",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.5": {
+          "key": "key.keyboard.5",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.4": {
+          "key": "key.keyboard.4",
+          "modifiers": "0,0,0"
+        },
+        "key.screenshot_viewer.open_screenshots_screen": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.3": {
+          "key": "key.keyboard.3",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.2": {
+          "key": "key.keyboard.2",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.1": {
+          "key": "key.keyboard.1",
+          "modifiers": "0,0,0"
+        },
+        "key.spectatorOutlines": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_auto_jump": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.gamma_toggle": {
+          "key": "key.keyboard.g",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_quick_confirm": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_left_sleeve": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_slime": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.pickItem": {
+          "key": "key.mouse.middle",
+          "modifiers": "0,0,0"
+        },
+        "key.socialInteractions": {
+          "key": "key.keyboard.p",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_enlarge_map": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_grid": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.night_vision_toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_open_map": {
+          "key": "key.keyboard.m",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_right_sleeve": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.9": {
+          "key": "key.keyboard.9",
+          "modifiers": "0,0,0"
+        },
+        "key.customfov.profile.desc": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_open_settings": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.right": {
+          "key": "key.keyboard.d",
+          "modifiers": "0,0,0"
+        },
+        "key.screenshot": {
+          "key": "key.keyboard.f2",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_enhanced_flight_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_alternative_list_players": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.entityculling.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.dynamicfps.toggle_forced": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.chat.up": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        }
+      },
+      "name": "QWERTY Basis"
+    },
+    {
+      "keyBinds": {
+        "axiom.keybind.toggle_force_place_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_minimap_settings": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_left_pants_leg": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.chat.down": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_zoom_in": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_cape": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "iris.keybind.shaderPackSelection": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.togglePerspective": {
+          "key": "key.keyboard.f5",
+          "modifiers": "0,0,0"
+        },
+        "key.lighty.toggle": {
+          "key": "key.keyboard.f8",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_bulldozer_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_reverse_entity_radar": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.left": {
+          "key": "key.keyboard.q",
+          "modifiers": "0,0,0"
+        },
+        "Freelook": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_jacket": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.lighty.enable": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.emotecraft.fastchoose": {
+          "key": "key.keyboard.b",
+          "modifiers": "0,0,0"
+        },
+        "key.attack": {
+          "key": "key.mouse.left",
+          "modifiers": "0,0,0"
+        },
+        "key.use": {
+          "key": "key.mouse.right",
+          "modifiers": "0,0,0"
+        },
+        "key.loadToolbarActivator": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.max_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.forward": {
+          "key": "key.keyboard.w",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.hud.down": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.back": {
+          "key": "key.keyboard.s",
+          "modifiers": "0,0,0"
+        },
+        "key.inventory": {
+          "key": "key.keyboard.e",
+          "modifiers": "0,0,0"
+        },
+        "key.drop": {
+          "key": "key.keyboard.a",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.builder_tool_slot": {
+          "key": "key.keyboard.0",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_pac_players": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.modmenu.open_menu": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.alternative_escape": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_no_updates_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_hat": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_display_all_sets": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.plasmovoice.settings": {
+          "key": "key.keyboard.v",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_waypoints_key": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_entity_radar": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "iris.keybind.reload": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_pac_chunk_claims": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_map_zoom_in": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_switch_waypoint_set": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.advancements": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.fabricskyboxes.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.forlinsmod.reloadConfig": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.decrease_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.swapOffhand": {
+          "key": "key.keyboard.f",
+          "modifiers": "0,0,0"
+        },
+        "key.saveToolbarActivator": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.jump": {
+          "key": "key.keyboard.space",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.increase_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.playerlist": {
+          "key": "key.keyboard.tab",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.min_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_manual_cave_mode": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_zoom_out": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_instant_waypoint": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.sneak": {
+          "key": "key.keyboard.left.shift",
+          "modifiers": "0,0,0"
+        },
+        "key.sprint": {
+          "key": "key.keyboard.left.control",
+          "modifiers": "0,0,0"
+        },
+        "key.emotecraft.stop": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_map_zoom_out": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_waypoints": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.tiptapshow.openconfig": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_editor_ui": {
+          "key": "key.keyboard.right.shift",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_replace_mode_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_tinker_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.tiptapshow.toggleoverlay": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_new_waypoint": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_light_overlay": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.chat": {
+          "key": "key.keyboard.t",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.hud.up": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_map_waypoints": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.orbit_camera": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_map": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_right_pants_leg": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.fullscreen": {
+          "key": "key.keyboard.f11",
+          "modifiers": "0,0,0"
+        },
+        "key.randomblockplacement.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.smoothCamera": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.logical_zoom.zoom": {
+          "key": "key.keyboard.c",
+          "modifiers": "0,0,0"
+        },
+        "iris.keybind.toggleShaders": {
+          "key": "key.keyboard.k",
+          "modifiers": "0,0,0"
+        },
+        "key.command": {
+          "key": "key.keyboard.slash",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.context": {
+          "key": "key.keyboard.left.alt",
+          "modifiers": "0,0,0"
+        },
+        "Toggle Freelook": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.8": {
+          "key": "key.keyboard.8",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.7": {
+          "key": "key.keyboard.7",
+          "modifiers": "0,0,0"
+        },
+        "key.dynamicfps.toggle_disabled": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.6": {
+          "key": "key.keyboard.6",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.5": {
+          "key": "key.keyboard.5",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.4": {
+          "key": "key.keyboard.4",
+          "modifiers": "0,0,0"
+        },
+        "key.screenshot_viewer.open_screenshots_screen": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.3": {
+          "key": "key.keyboard.3",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.2": {
+          "key": "key.keyboard.2",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.1": {
+          "key": "key.keyboard.1",
+          "modifiers": "0,0,0"
+        },
+        "key.spectatorOutlines": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_auto_jump": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.gamma_toggle": {
+          "key": "key.keyboard.g",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_quick_confirm": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_left_sleeve": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_slime": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.pickItem": {
+          "key": "key.mouse.middle",
+          "modifiers": "0,0,0"
+        },
+        "key.socialInteractions": {
+          "key": "key.keyboard.p",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_enlarge_map": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_toggle_grid": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.night_vision_toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_open_map": {
+          "key": "key.keyboard.m",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_right_sleeve": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.9": {
+          "key": "key.keyboard.9",
+          "modifiers": "0,0,0"
+        },
+        "key.customfov.profile.desc": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_open_settings": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.right": {
+          "key": "key.keyboard.d",
+          "modifiers": "0,0,0"
+        },
+        "key.screenshot": {
+          "key": "key.keyboard.f2",
+          "modifiers": "0,0,0"
+        },
+        "axiom.keybind.toggle_enhanced_flight_cap": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "gui.xaero_alternative_list_players": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.entityculling.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.dynamicfps.toggle_forced": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.raised.chat.up": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        }
+      },
+      "name": "AZERTY Basis"
+    }
+  ]
+}

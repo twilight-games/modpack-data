@@ -1,0 +1,13 @@
+name = "Custom FOV"
+filename = "customfov-quilt-6.2.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZAcFHLd/versions/9kJe6BQl/customfov-quilt-6.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "95480f0f660e31f082f3d3eac5369c44808f6f58"
+
+[update]
+[update.modrinth]
+mod-id = "uZAcFHLd"
+version = "9kJe6BQl"

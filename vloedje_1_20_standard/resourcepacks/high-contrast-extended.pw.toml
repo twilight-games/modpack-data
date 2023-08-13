@@ -1,0 +1,13 @@
+name = "High Contrast Extended"
+filename = "high_contrast_extended_1.4_1.20-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PEEMA1Hv/versions/IKbdktFI/high_contrast_extended_1.4_1.20-1.20.1.zip"
+hash-format = "sha1"
+hash = "b07d07f18f7921ec6d76525b2f55c02da2090552"
+
+[update]
+[update.modrinth]
+mod-id = "PEEMA1Hv"
+version = "IKbdktFI"

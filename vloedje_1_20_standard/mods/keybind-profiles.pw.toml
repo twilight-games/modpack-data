@@ -1,0 +1,13 @@
+name = "Keybind Profiles"
+filename = "keybind_profiles-1.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wfh4KfoK/versions/iVGqySjM/keybind_profiles-1.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "4abbe94abef7698e70821de9558c95ee93d94464"
+
+[update]
+[update.modrinth]
+mod-id = "Wfh4KfoK"
+version = "iVGqySjM"

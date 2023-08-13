@@ -20,6 +20,7 @@ joinedFirstServer:true
 hideBundleTutorial:true
 onboardAccessibility:false
 syncChunkWrites:false
+resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","lambdabettergrass/default"]
 key_key.amecs.toggle_auto_jump:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
