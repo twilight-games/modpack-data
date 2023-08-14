@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cherishedworlds-favorites.dat"
-hash = "5bb46fe1e09dd435543f356ba5f68637063159a27df27a156cb4080f6c6228de"
-
-[[files]]
 file = "config/TitleChanger/config.json5"
 hash = "6f840b05586d311cb1d811799b0deb58f6da6e74d25d19b365585a74ebde0b1e"
 
@@ -1148,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "8c4c508d7b302b8d7798aea36c9b462c54e4a09058c70b5df2088fc96137363e"
+hash = "c8b9962c6d1bd404c17aca33b810ff489523b593f7fa62437032806264ca5968"
 metafile = true
 
 [[files]]
@@ -1292,6 +1288,11 @@ hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
 
 [[files]]
+file = "mods/dyed.pw.toml"
+hash = "b3c75937f24cfb7b88ace2682962f9cddf7645e67af94787bd795a8db9d13e86"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
@@ -1398,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
+hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
 metafile = true
 
 [[files]]
@@ -1623,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "1b9b1cdbacfeeb97f21981d5859af497bc5db6aebeb7e320f874111787d67c3a"
+hash = "d6df523cc504146a9d96b6bad4e379f364c7bc889d8d17b48ebcda53bdea6d5e"
 metafile = true
 
 [[files]]
@@ -1673,12 +1674,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5c1e9362bfd60c41ce752056b2db0e2a16e6ae879265ecf8cc1d5a54dd6ffe9f"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
+hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 metafile = true
 
 [[files]]
@@ -1792,7 +1793,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "fd69795065aab95d4a0bb311b20377956a2394a7f3d73a2fc46226ca22229678"
+hash = "a9604ba3c6b84749564098f2627a1eee237a2a34511a63014048f526f95a9050"
 metafile = true
 
 [[files]]
