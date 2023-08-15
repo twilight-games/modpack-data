@@ -1,8 +1,8 @@
 name = "Axiom"
-filename = "Axiom-b1.0.1-for-MC1.20.1.jar"
+filename = "Axiom-b1.0.2-for-MC1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://axiom.moulberry.com/api/downloads/Axiom-b1.0.1-for-MC1.20.1.jar"
+url = "https://axiom.moulberry.com/api/downloads/Axiom-b1.0.2-for-MC1.20.1.jar"
 hash-format = "sha1"
-hash = "91665bb9a38e637b59722196edc35b65aaa0f166"
+hash = "f80e6a04fc43f6c74099d5e993157261dd06b790"

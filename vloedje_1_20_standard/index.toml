@@ -29,10 +29,6 @@ file = "config/debugify.json"
 hash = "7233973eadcc14d0b796e1b29c73b3b6aa42c982c82e71751bcb2682700f5292"
 
 [[files]]
-file = "config/desiredservers/desiredservers.json"
-hash = "283afb45217625efb8d9dcc637186a425b290c82b35362d4bda03cb066eb02f2"
-
-[[files]]
 file = "config/draggable-resource-packs.json5"
 hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
 
@@ -119,6 +115,10 @@ hash = "6cb6fb798795f7b94869043ab1e2278cda9e4199a6cf3c827dcf07b74821a085"
 [[files]]
 file = "config/rebrand.toml"
 hash = "6c9cbe12943e8748893dd199e58c17edb65a1e8f086c8ca394ea0fa2128fd8b0"
+
+[[files]]
+file = "config/resourcepackchecker/resourcepackchecker.properties"
+hash = "b5f4cb2400031ba8a137c15cecd9e48e416f7e7a8e7f882f7ad2050923bad648"
 
 [[files]]
 file = "config/screenshot_viewer-client.json"
@@ -1139,7 +1139,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "c8b9962c6d1bd404c17aca33b810ff489523b593f7fa62437032806264ca5968"
+hash = "8aa145491278f06268455dd568376f7cbd5b0d20ab9178ed7df802808d9dd5de"
 metafile = true
 
 [[files]]
@@ -1170,6 +1170,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
+file = "mods/blanket.pw.toml"
+hash = "cbd4c7fa64d8ee6362b9279aed6fd5f65df6ca1d9000e8dd4a6d0e1eeafbd175"
 metafile = true
 
 [[files]]
@@ -1270,11 +1275,6 @@ metafile = true
 [[files]]
 file = "mods/delete-worlds-to-trash.pw.toml"
 hash = "10b51186969ddc45fe02947537eb1c09d56eeade2999b7bbf96e5b27d69fdf6b"
-metafile = true
-
-[[files]]
-file = "mods/desired-servers.pw.toml"
-hash = "d3d1216084b7fc191b619aafb11c550d4ff07fb5ff0e619e46ceb1a0677b9147"
 metafile = true
 
 [[files]]
@@ -1564,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5e0ef8a35be1085615a978d3a4863960496a269a1f4bb955a403e8bf3a215571"
+hash = "c60a07d2f8e1b9a4b898c6fd725449ede69a2e6c4eabcbe9e92ba592def46ed0"
 metafile = true
 
 [[files]]
@@ -1614,7 +1614,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "718be7c02354eab29316ea0354871544030b0d39fa7ce448f6cfa9df4a1d2f54"
+hash = "bf2c5830631b2cfe893e2b4fb5d1ee7ca740b3537798fc008f43ef7a0ff0b173"
 metafile = true
 
 [[files]]
@@ -1759,7 +1759,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6a28e80a529c1eda8b114d48554b38b680a19e592aed811b8af53c3b9d18e3d7"
+hash = "8a3cead322790ad946980f3773835008f6fc9a876a30b6148513c8e94396d997"
 metafile = true
 
 [[files]]
@@ -1770,6 +1770,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "c6a9d6295c02b07c5fdbcfedcf62fef51bf4977501375e48482177ae1b4d63f0"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "e2d78a47eb1ff7023fc264a198f47d6b66a4d48f497ace2c6715d681183d3649"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
