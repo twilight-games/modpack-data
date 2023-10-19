@@ -9,7 +9,7 @@ jobs:
       modpacks: ${{ steps.list-modpacks.outputs.modpacks }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - id: list-modpacks
         name: List modpacks
         run: echo modpacks=$(cat modpacks.json) >> $GITHUB_OUTPUT
@@ -22,7 +22,7 @@ jobs:
     name: Build ${{ matrix.name }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup golang
         uses: actions/setup-go@v4
         with:
@@ -48,7 +48,7 @@ jobs:
     if: github.ref == 'refs/heads/main'
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Download modpacks
         uses: actions/download-artifact@v3
         with:
