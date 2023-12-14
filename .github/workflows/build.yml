@@ -37,7 +37,7 @@ jobs:
         working-directory: ${{ matrix.id }}
         env:
           OUTPUT: ${{ matrix.id }}-${{ matrix.version }}.mrpack
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.id }}
           path: ${{ matrix.id }}/${{ matrix.id }}-${{ matrix.version }}.mrpack
